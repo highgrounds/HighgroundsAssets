@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<CARDLIST name="1st Edition" version="2.5">
+		<CARD g="0" c="0" w="0" name="Unknown" edition="-1" rarity="-1" id="Unknown">
+			<RIG>Unknown</RIG>
+		</CARD>
+		<CARD g="1" c="0" w="0" name="Groff" edition="1" rarity="0" id="card0000000">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<TYPE>Hunter</TYPE>
+			<RIG>Groff</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Kaite" edition="1" rarity="0" id="card0000001">
+			<ACTION location="battle" type="attack" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Recruiter</TYPE>
+			<RIG>Kaite</RIG>
+			<AI>.65</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Tarim" edition="1" rarity="0" id="card0000002">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Vanguard</TYPE>
+			<TYPE>Knight</TYPE>
+			<RIG>Tarim</RIG>
+			<AI>.97</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Ramm" edition="1" rarity="0" id="card0000003">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<TYPE>Knight</TYPE>
+			<RIG>Ramm</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="3" c="0" w="0" name="Domino" edition="1" rarity="0" id="card0000004">
+			<ACTION location="battle" type="wound" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Thief</TYPE>
+			<RIG>Domino</RIG>
+			<AI>.9</AI>
+		</CARD>
+		<CARD g="3" c="0" w="0" name="Abban" edition="1" rarity="0" id="card0000005">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Soldier</TYPE>
+			<TYPE>Veteran</TYPE>
+			<RIG>Abban</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="4" c="0" w="0" name="Epherius" edition="1" rarity="1" id="card0000006">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="home" type="healing" value="2"></ACTION>
+			<TYPE>Paladin</TYPE>
+			<RIG>Epherius</RIG>
+			<AI>.45</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Jonas" edition="1" rarity="1" id="card0000007">
+			<ACTION location="battle" type="wound" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="4"></ACTION>
+			<TYPE>Farmer</TYPE>
+			<RIG>Jonas</RIG>
+			<AI>.12</AI>
+		</CARD>
+		<CARD g="4" c="0" w="0" name="Hector" edition="1" rarity="0" id="card0000008">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>General</TYPE>
+			<RIG>Hector</RIG>
+			<AI>.82</AI>
+		</CARD>
+		<CARD g="5" c="0" w="0" name="Payne" edition="1" rarity="2" id="card0000009">
+			<ACTION location="battle" type="wound" value="2"></ACTION>
+			<ACTION location="home" type="healing" value="1"></ACTION>
+			<TYPE>Troll</TYPE>
+			<TYPE>Barbarian</TYPE>
+			<RIG>Payne</RIG>
+			<AI>.82</AI>
+		</CARD>
+		<CARD g="7" c="0" w="0" name="Jolien" edition="1.6" rarity="0" id="card0000010">
+			<ACTION location="battle" type="attack" value="2"></ACTION>
+			<ACTION location="home" type="healing" value="3"></ACTION>
+			<TYPE>Healer</TYPE>
+			<TYPE>Fighter</TYPE>
+			<RIG>Jolien</RIG>
+			<AI>.24</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Tydus" edition="1" rarity="0" id="card0000011">
+			<ACTION location="battle" type="attack" value="6"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<TYPE>Soldier</TYPE>
+			<TYPE>Warlord</TYPE>
+			<RIG>Tydus</RIG>
+			<AI>.92</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Horus" edition="1" rarity="2" id="card0000012">
+			<ACTION location="battle" type="farmerKing" value="1"></ACTION>
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="gold" value="4"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Farmer</TYPE>
+			<TYPE>Fighter</TYPE>
+			<RIG>Horus</RIG>
+			<AI>.55</AI>
+		</CARD>
+		<CARD g="7" c="0" w="0" name="Grom" edition="1" rarity="1" id="card0000013">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="battle" type="defense" value="3"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Troll</TYPE>
+			<RIG>Grom</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="8" c="0" w="0" name="Rune" edition="1" rarity="2" id="card0000014">
+			<ACTION location="battle" type="wound" value="3"></ACTION>
+			<ACTION location="home" type="gold" value="4"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Thief</TYPE>
+			<TYPE>Assassin</TYPE>
+			<RIG>Rune</RIG>
+			<AI>.62</AI>
+		</CARD>
+		<CARD g="14" c="0" w="0" name="Spike" edition="1.6" rarity="1" id="card0000015">
+			<ACTION location="battle" type="wound" value="4"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="arrow" value="2"></ACTION>
+			<TYPE>Assassin</TYPE>
+			<TYPE>Hunter</TYPE>
+			<RIG>Spike</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Harden" edition="1" rarity="0" id="card0000016">
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<TYPE>Troll</TYPE>
+			<RIG>Harden</RIG>
+			<AI>.1</AI>
+		</CARD>
+		<CARD g="1" c="0" w="0" name="Rosie" edition="1" rarity="0" id="card0000017">
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="healing" value="1"></ACTION>
+			<TYPE>Cleric</TYPE>
+			<RIG>Rosie</RIG>
+			<AI>.3</AI>
+		</CARD>
+		<CARD g="5" c="0" w="0" name="Bran" edition="1" rarity="0" id="card0000018">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<TYPE>Farmer</TYPE>
+			<TYPE>Hunter</TYPE>
+			<RIG>Bran</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="3" c="0" w="0" name="Durant" edition="1" rarity="0" id="card0000019">
+			<ACTION location="battle" type="arrow" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Farmer</TYPE>
+			<TYPE>Archer</TYPE>
+			<RIG>Durant</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="0" c="1" w="0" name="Tamurum" edition="1" rarity="0" id="card0000020">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<TYPE>Spirit</TYPE>
+			<RIG>Tamurum</RIG>
+			<AI>.3</AI>
+		</CARD>
+		<CARD g="0" c="2" w="0" name="Rorth" edition="1" rarity="0" id="card0000021">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<TYPE>Spirit</TYPE>
+			<TYPE>Farmer</TYPE>
+			<RIG>Rorth</RIG>
+			<AI>.1</AI>
+		</CARD>
+		<CARD g="0" c="3" w="0" name="Rahhn" edition="1" rarity="0" id="card0000022">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<TYPE>Harvester</TYPE>
+			<RIG>Rahhn</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="2" w="0" name="Yuolen" edition="1" rarity="0" id="card0000023">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Skeleton</TYPE>
+			<RIG>Yuolen</RIG>
+			<AI>.95</AI>
+		</CARD>
+		<CARD g="0" c="3" w="0" name="Ino" edition="2.4" rarity="0" id="card0000024">
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="healing" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Skeleton</TYPE>
+			<RIG>Ino</RIG>
+			<AI>.65</AI>
+		</CARD>
+		<CARD g="0" c="7" w="0" name="Drake" edition="1.9" rarity="2" id="card0000025">
+			<ACTION location="battle" type="arrow" value="2"></ACTION>
+			<ACTION location="home" type="healing" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="4"></ACTION>
+			<TYPE>Skeleton</TYPE>
+			<TYPE>Archer</TYPE>
+			<RIG>Drake</RIG>
+			<AI>.89</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Craun" edition="1" rarity="1" id="card0000026">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Skeleton</TYPE>
+			<TYPE>Soldier</TYPE>
+			<RIG>Craun</RIG>
+			<AI>.95</AI>
+		</CARD>
+		<CARD g="0" c="4" w="0" name="Faiser" edition="1" rarity="1" id="card0000027">
+			<ACTION location="battle" type="rampage" value="3"></ACTION>
+			<ACTION location="home" type="healing" value="1"></ACTION>
+			<TYPE>Minotaur</TYPE>
+			<TYPE>Shade</TYPE>
+			<RIG>Faiser</RIG>
+			<AI>.83</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Jion" edition="1" rarity="1" id="card0000028">
+			<ACTION location="battle" type="bolt" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Shade</TYPE>
+			<TYPE>Wizard</TYPE>
+			<RIG>Jion</RIG>
+			<AI>.92</AI>
+		</CARD>
+		<CARD g="0" c="4" w="0" name="Rainer" edition="2.2" rarity="0" id="card0000029">
+			<ACTION location="battle" type="duoRaeus" value="3"></ACTION>
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<TYPE>Anubis</TYPE>
+			<RIG>Rainer</RIG>
+			<AI>.95</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Raeus" edition="2.2" rarity="2" id="card0000030">
+			<ACTION location="battle" type="duoRainer" value="3"></ACTION>
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Anubis</TYPE>
+			<RIG>Raeus</RIG>
+			<AI>.88</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Rauny" edition="1" rarity="0" id="card0000031">
+			<ACTION location="battle" type="defense" value="3"></ACTION>
+			<ACTION location="home" type="healing" value="2"></ACTION>
+			<TYPE>Healer</TYPE>
+			<TYPE>Protector</TYPE>
+			<RIG>Rauny</RIG>
+			<AI>.2</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Yaran" edition="1" rarity="1" id="card0000032">
+			<ACTION location="battle" type="attack" value="5"></ACTION>
+			<ACTION location="home" type="fireball" value="2"></ACTION>
+			<TYPE>Wizard</TYPE>
+			<RIG>Yaran</RIG>
+			<AI>.45</AI>
+		</CARD>
+		<CARD g="0" c="6" w="0" name="Branan" edition="1" rarity="1" id="card0000033">
+			<ACTION location="battle" type="attack" value="5"></ACTION>
+			<ACTION location="home" type="fireball" value="2"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Wizard</TYPE>
+			<RIG>Branan</RIG>
+			<AI>.4</AI>
+		</CARD>
+		<CARD g="0" c="6" w="0" name="Tempest" edition="1" rarity="1" id="card0000034">
+			<ACTION location="battle" type="bolt" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="4"></ACTION>
+			<TYPE>Wizard</TYPE>
+			<TYPE>Thief</TYPE>
+			<RIG>Tempest</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Ashara" edition="1" rarity="2" id="card0000035">
+			<ACTION location="battle" type="attack" value="5"></ACTION>
+			<ACTION location="home" type="skelKing" value="1"></ACTION>
+			<TYPE>Lich</TYPE>
+			<TYPE>Queen</TYPE>
+			<RIG>Ashara</RIG>
+			<AI>.35</AI>
+		</CARD>
+		<CARD g="0" c="9" w="0" name="Shadebeast" edition="1" rarity="2" id="card0000036">
+			<ACTION location="battle" type="deathBolt" value="-9999"></ACTION>
+			<ACTION location="battle" type="burnout" value="14"></ACTION>
+			<ACTION location="home" type="crystal" value="5"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Shade</TYPE>
+			<TYPE>Monster</TYPE>
+			<RIG>Shadebeast</RIG>
+			<AI>.39</AI>
+		</CARD>
+		<CARD g="0" c="11" w="0" name="Jacen" edition="2.1" rarity="3" id="card0000037">
+			<ACTION location="battle" type="bolt" value="2"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="7"></ACTION>
+			<TYPE>Wizard</TYPE>
+			<TYPE>General</TYPE>
+			<RIG>Jacen</RIG>
+			<AI>.93</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Willem" edition="1.6" rarity="0" id="card0000038">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="home" type="atkSquire" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Royal</TYPE>
+			<TYPE>Squire</TYPE>
+			<RIG>Willem</RIG>
+			<AI>.1</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Rucke" edition="1" rarity="0" id="card0000039">
+			<ACTION location="battle" type="rampage" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Barbarian</TYPE>
+			<RIG>Rucke</RIG>
+			<AI>.97</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Stag" edition="1" rarity="1" id="card0000040">
+			<ACTION location="battle" type="rampage" value="4"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<TYPE>Barbarian</TYPE>
+			<TYPE>Archer</TYPE>
+			<RIG>Stag</RIG>
+			<AI>.76</AI>
+		</CARD>
+		<CARD g="9" c="0" w="0" name="Crusher" edition="1" rarity="3" id="card0000041">
+			<ACTION location="battle" type="knockout" value="1"></ACTION>
+			<ACTION location="battle" type="rampage" value="5"></ACTION>
+			<ACTION location="home" type="recruit" value="5"></ACTION>
+			<TYPE>Barbarian</TYPE>
+			<TYPE>Warlord</TYPE>
+			<RIG>Crusher</RIG>
+			<AI>.87</AI>
+		</CARD>
+		<CARD g="3" c="0" w="0" name="Scrapper" edition="1" rarity="0" id="card0000042">
+			<ACTION location="battle" type="knockout" value="1"></ACTION>
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Barbarian</TYPE>
+			<RIG>Scrapper</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Driaga" edition="2.1" rarity="2" id="card0000043">
+			<ACTION location="battle" type="barbBerserk" value="-9999"></ACTION>
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="barbKing" value="2"></ACTION>
+			<TYPE>Barbarian</TYPE>
+			<TYPE>Queen</TYPE>
+			<RIG>Driaga</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="4" c="0" w="0" name="Bane" edition="1.6" rarity="0" id="card0000044">
+			<ACTION location="battle" type="knockout" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Barbarian</TYPE>
+			<TYPE>Slayer</TYPE>
+			<RIG>Bane</RIG>
+			<AI>.80</AI>
+		</CARD>
+		<CARD g="0" c="10" w="0" name="Varo" edition="2.5" rarity="1" id="card0000045">
+			<ACTION location="battle" type="attack" value="9"></ACTION>
+			<ACTION location="home" type="defense" value="3"></ACTION>
+			<TYPE>Golem</TYPE>
+			<RIG>Varo</RIG>
+			<AI>.89</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Wren" edition="1.4" rarity="2" id="card0000046">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="6"></ACTION>
+			<TYPE>Mariner</TYPE>
+			<TYPE>Recruiter</TYPE>
+			<RIG>Wren</RIG>
+			<AI>.34</AI>
+		</CARD>
+		<CARD g="3" c="0" w="0" name="Andor" edition="1.6" rarity="1" id="card0000047">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="atkSquire" value="2"></ACTION>
+			<TYPE>Squire</TYPE>
+			<RIG>Andor</RIG>
+			<AI>.82</AI>
+		</CARD>
+		<CARD g="1" c="2" w="0" name="Gage" edition="1.9" rarity="0" id="card0000048">
+			<ACTION location="battle" type="steal" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<TYPE>Raider</TYPE>
+			<RIG>Gage</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="3" w="0" name="Eder" edition="1" rarity="1" id="card0000049">
+			<ACTION location="battle" type="steal" value="1"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<TYPE>Raider</TYPE>
+			<TYPE>Archer</TYPE>
+			<RIG>Eder</RIG>
+			<AI>.3</AI>
+		</CARD>
+		<CARD g="0" c="6" w="0" name="Berna" edition="1.9" rarity="1" id="card0000050">
+			<ACTION location="battle" type="steal" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Raider</TYPE>
+			<TYPE>Harvester</TYPE>
+			<RIG>Berna</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="10" w="0" name="Faulk" edition="1.9" rarity="3" id="card0000051">
+			<ACTION location="battle" type="steal" value="3"></ACTION>
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="home" type="gold" value="3"></ACTION>
+			<ACTION location="home" type="crystal" value="3"></ACTION>
+			<TYPE>Salamander</TYPE>
+			<TYPE>Raider</TYPE>
+			<RIG>Faulk</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="8" c="0" w="0" name="Cook" edition="2.1" rarity="3" id="card0000052">
+			<ACTION location="battle" type="paladin" value="2"></ACTION>
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="healing" value="2"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<TYPE>Paladin</TYPE>
+			<RIG>Cook</RIG>
+			<AI>.65</AI>
+		</CARD>
+		<CARD g="0" c="1" w="0" name="Yuo" edition="1" rarity="0" id="card0000053">
+			<ACTION location="battle" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<TYPE>Wisp</TYPE>
+			<RIG>Yuo</RIG>
+			<AI>.45</AI>
+		</CARD>
+		<CARD g="0" c="2" w="0" name="Loom" edition="1" rarity="0" id="card0000054">
+			<ACTION location="battle" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<TYPE>Wisp</TYPE>
+			<RIG>Loom</RIG>
+			<AI>.45</AI>
+		</CARD>
+		<CARD g="9" c="0" w="0" name="Oakley" edition="1" rarity="0" id="card0000055">
+			<ACTION location="battle" type="attack" value="8"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<TYPE>Giant</TYPE>
+			<RIG>Oakley</RIG>
+			<AI>.97</AI>
+		</CARD>
+		<CARD g="1" c="0" w="0" name="Pitt" edition="1" rarity="0" id="card0000056">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<TYPE>Bodyguard</TYPE>
+			<RIG>Pitt</RIG>
+			<AI>.3</AI>
+		</CARD>
+		<CARD g="4" c="0" w="0" name="Alson" edition="2.5" rarity="1" id="card0000057">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="battle" type="wound" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="4"></ACTION>
+			<TYPE>Assassin</TYPE>
+			<RIG>Alson</RIG>
+			<AI>.85</AI>
+		</CARD>
+		<CARD g="3" c="0" w="0" name="Lans" edition="1.2" rarity="2" id="card0000058">
+			<ACTION location="battle" type="wound" value="1"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<TYPE>Assassin</TYPE>
+			<TYPE>Archer</TYPE>
+			<RIG>Lans</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="10" c="0" w="0" name="Barion" edition="1.9" rarity="3" id="card0000059">
+			<ACTION location="battle" type="attack" value="7"></ACTION>
+			<ACTION location="battle" type="wound" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="4"></ACTION>
+			<ACTION location="home" type="recruit" value="6"></ACTION>
+			<TYPE>Troll</TYPE>
+			<TYPE>Chieftain</TYPE>
+			<RIG>Epoch</RIG>
+			<AI>.80</AI>
+		</CARD>
+		<CARD g="1" c="0" w="0" name="Harum" edition="1.2" rarity="0" id="card0000060">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Barbarian</TYPE>
+			<RIG>Harum</RIG>
+			<AI>.68</AI>
+		</CARD>
+		<CARD g="4" c="0" w="0" name="Hale" edition="1.2" rarity="0" id="card0000061">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Mountain</TYPE>
+			<TYPE>Knight</TYPE>
+			<RIG>Hale</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="0" c="4" w="0" name="Rhyne" edition="1.2" rarity="1" id="card0000062">
+			<ACTION location="battle" type="attack" value="2"></ACTION>
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<TYPE>Shade</TYPE>
+			<TYPE>Skeleton</TYPE>
+			<RIG>Rhyne</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Lyss" edition="2.5" rarity="0" id="card0000063">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="crystal" value="3"></ACTION>
+			<TYPE>Reaper</TYPE>
+			<TYPE>Hunter</TYPE>
+			<RIG>Lyss</RIG>
+			<AI>.54</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Deimor" edition="1.2" rarity="2" id="card0000064">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="battle" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="fireball" value="2"></ACTION>
+			<TYPE>Skeleton</TYPE>
+			<TYPE>Knight</TYPE>
+			<RIG>Deimor</RIG>
+			<AI>.4</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Pomora" edition="1.2" rarity="2" id="card0000065">
+			<ACTION location="battle" type="steal" value="1"></ACTION>
+			<ACTION location="battle" type="rampage" value="3"></ACTION>
+			<ACTION location="home" type="defense" value="3"></ACTION>
+			<TYPE>Minotaur</TYPE>
+			<TYPE>Raider</TYPE>
+			<RIG>Pomora</RIG>
+			<AI>.85</AI>
+		</CARD>
+		<CARD g="0" c="3" w="0" name="Striker" edition="1.2" rarity="0" id="card0000066">
+			<ACTION location="battle" type="bolt" value="1"></ACTION>
+			<ACTION location="battle" type="burnout" value="5"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Wizard</TYPE>
+			<RIG>Striker</RIG>
+			<AI>.95</AI>
+		</CARD>
+		<CARD g="0" c="3" w="0" name="Ghast" edition="2.5" rarity="0" id="card0000067">
+			<ACTION location="battle" type="rampage" value="2"></ACTION>
+			<ACTION location="home" type="protect" value="4"></ACTION>
+			<TYPE>Minion</TYPE>
+			<RIG>Ghast</RIG>
+			<AI>.3</AI>
+		</CARD>
+		<CARD g="0" c="6" w="0" name="Molo" edition="2.5" rarity="0" id="card0000068">
+			<ACTION location="battle" type="attack" value="6"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<TYPE>Soldier</TYPE>
+			<TYPE>Golem</TYPE>
+			<RIG>Molo</RIG>
+			<AI>.91</AI>
+		</CARD>
+		<CARD g="1" c="0" w="0" name="Lyon" edition="1.4" rarity="1" id="card0000069">
+			<ACTION location="battle" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<TYPE>Druid</TYPE>
+			<RIG>Lyon</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="1" c="0" w="0" name="Hiro" edition="1.4" rarity="1" id="card0000070">
+			<ACTION location="battle" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<TYPE>Druid</TYPE>
+			<RIG>Hiro</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="4" w="0" name="Talas" edition="1.4" rarity="0" id="card0000071">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="recruit" value="4"></ACTION>
+			<TYPE>Ancient</TYPE>
+			<TYPE>Spirit</TYPE>
+			<RIG>Talas</RIG>
+			<AI>.46</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Johnn" edition="1.4" rarity="0" id="card0000072">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<TYPE>Farmer</TYPE>
+			<RIG>Johnn</RIG>
+			<AI>.05</AI>
+		</CARD>
+		<CARD g="0" c="4" w="0" name="Atrophus" edition="1.4" rarity="0" id="card0000073">
+			<ACTION location="battle" type="rampage" value="2"></ACTION>
+			<ACTION location="home" type="protect" value="2"></ACTION>
+			<ACTION location="home" type="windfall#1" value="4"></ACTION>
+			<TYPE>Minion</TYPE>
+			<TYPE>Soldier</TYPE>
+			<RIG>Atrophus</RIG>
+			<AI>.2</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Ray" edition="2.5" rarity="1" id="card0000074">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="battle" type="wound" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="3"></ACTION>
+			<TYPE>Rogue</TYPE>
+			<RIG>Ray</RIG>
+			<AI>.88</AI>
+		</CARD>
+		<CARD g="5" c="0" w="0" name="Yorn" edition="1.4" rarity="1" id="card0000075">
+			<ACTION location="battle" type="knockout" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="3"></ACTION>
+			<TYPE>Barbarian</TYPE>
+			<TYPE>Farmer</TYPE>
+			<RIG>Yorn</RIG>
+			<AI>.04</AI>
+		</CARD>
+		<CARD g="0" c="3" w="0" name="Fiss" edition="1.5" rarity="0" id="card0000076">
+			<ACTION location="battle" type="revenge" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<TYPE>Salamander</TYPE>
+			<TYPE>Avenger</TYPE>
+			<RIG>Fiss</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Bin" edition="1.7" rarity="0" id="card0000077">
+			<ACTION location="battle" type="zealot" value="1"></ACTION>
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<TYPE>Acolyte</TYPE>
+			<RIG>Bin</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="3" c="0" w="0" name="Gernt" edition="1.5" rarity="0" id="card0000078">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="windfall#0" value="3"></ACTION>
+			<TYPE>Apprentice</TYPE>
+			<RIG>Gernt</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="3" c="0" w="0" name="Marshall" edition="1.5" rarity="0" id="card0000079">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<ACTION location="home" type="renegade" value="0"></ACTION>
+			<TYPE>Mercenary</TYPE>
+			<RIG>Marshall</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="8" c="0" w="0" name="Syl" edition="2.0" rarity="1" id="card0000080">
+			<ACTION location="battle" type="honor" value="8"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="windfall#0" value="8"></ACTION>
+			<TYPE>Kingmaker</TYPE>
+			<RIG>Syl</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Zender" edition="1.5" rarity="0" id="card0000081">
+			<ACTION location="battle" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="windfall#1" value="5"></ACTION>
+			<TYPE>Spirit</TYPE>
+			<TYPE>Vessel</TYPE>
+			<RIG>Zender</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="9" w="0" name="Ink" edition="1.5" rarity="2" id="card0000082">
+			<ACTION location="battle" type="bolt" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<ACTION location="home" type="renegade" value="0"></ACTION>
+			<TYPE>Mercenary</TYPE>
+			<TYPE>Wizard</TYPE>
+			<RIG>Ink</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Rile" edition="1.5" rarity="1" id="card0000083">
+			<ACTION location="battle" type="attack" value="7"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<ACTION location="home" type="renegade" value="0"></ACTION>
+			<TYPE>Vanguard</TYPE>
+			<TYPE>Mercenary</TYPE>
+			<RIG>Rile</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="0" c="8" w="0" name="Virt" edition="1.6" rarity="3" id="card0000084">
+			<ACTION location="battle" type="revenge" value="3"></ACTION>
+			<ACTION location="home" type="healing" value="3"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Healer</TYPE>
+			<TYPE>Avenger</TYPE>
+			<RIG>Virt</RIG>
+			<AI>.4</AI>
+		</CARD>
+		<CARD g="0" c="7" w="0" name="Sliver" edition="2.4" rarity="2" id="card0000085">
+			<ACTION location="battle" type="revenge" value="5"></ACTION>
+			<ACTION location="battle" type="burnout" value="6"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Avenger</TYPE>
+			<RIG>Sliver</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Vince" edition="1.5" rarity="0" id="card0000086">
+			<ACTION location="battle" type="attack" value="2"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Miner</TYPE>
+			<RIG>Vince</RIG>
+			<AI>.2</AI>
+		</CARD>
+		<CARD g="5" c="0" w="0" name="Lapp" edition="1.5" rarity="1" id="card0000087">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Mountain</TYPE>
+			<TYPE>Hunter</TYPE>
+			<RIG>Lapp</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="14" c="0" w="0" name="Cliff" edition="1.5" rarity="1" id="card0000088">
+			<ACTION location="battle" type="attack" value="10"></ACTION>
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="protect" value="8"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Mountain</TYPE>
+			<TYPE>Giant</TYPE>
+			<RIG>Cliff</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Lare" edition="1.7" rarity="1" id="card0000089">
+			<ACTION location="battle" type="zealot" value="2"></ACTION>
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<TYPE>Acolyte</TYPE>
+			<TYPE>Enforcer</TYPE>
+			<RIG>Lare</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="15" c="0" w="0" name="Arthur" edition="2.1" rarity="2" id="card0000090">
+			<ACTION location="battle" type="honor" value="12"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="knightKing" value="4"></ACTION>
+			<TYPE>King</TYPE>
+			<RIG>Arthur</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="4" c="0" w="0" name="Morgart" edition="1.6" rarity="0" id="card0000091">
+			<ACTION location="battle" type="defense" value="3"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="windfall#0" value="3"></ACTION>
+			<TYPE>Pikeman</TYPE>
+			<RIG>Morgart</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Hagel" edition="1.6" rarity="1" id="card0000092">
+			<ACTION location="battle" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Crystal</TYPE>
+			<TYPE>Miner</TYPE>
+			<RIG>Hagel</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Herold" edition="1.6" rarity="1" id="card0000093">
+			<ACTION location="battle" type="honor" value="3"></ACTION>
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="atkSquire" value="3"></ACTION>
+			<ACTION location="home" type="protect" value="1"></ACTION>
+			<TYPE>Veteran</TYPE>
+			<TYPE>Squire</TYPE>
+			<RIG>Herold</RIG>
+			<AI>.3</AI>
+		</CARD>
+		<CARD g="7" c="0" w="0" name="Kobi" edition="1.6" rarity="0" id="card0000094">
+			<ACTION location="battle" type="honor" value="8"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Vanguard</TYPE>
+			<TYPE>Knight</TYPE>
+			<RIG>Kobi</RIG>
+			<AI>.9</AI>
+		</CARD>
+		<CARD g="4" c="0" w="0" name="Evelyne" edition="1.6" rarity="1" id="card0000095">
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<ACTION location="home" type="healing" value="1"></ACTION>
+			<TYPE>Royal</TYPE>
+			<TYPE>Healer</TYPE>
+			<RIG>Evelyne</RIG>
+			<AI>.01</AI>
+		</CARD>
+		<CARD g="0" c="2" w="0" name="Mana" edition="1.7" rarity="0" id="card0000096">
+			<ACTION location="battle" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<TYPE>Veteran</TYPE>
+			<TYPE>Druid</TYPE>
+			<RIG>Mana</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="5" w="0" name="Ruel" edition="1.7" rarity="1" id="card0000097">
+			<ACTION location="battle" type="attack" value="5"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<TYPE>Harvester</TYPE>
+			<TYPE>Soldier</TYPE>
+			<RIG>Ruel</RIG>
+			<AI>.3</AI>
+		</CARD>
+		<CARD g="0" c="4" w="0" name="Ekin" edition="1.9" rarity="0" id="card0000098">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="fireball" value="1"></ACTION>
+			<TYPE>Wizard</TYPE>
+			<TYPE>Apprentice</TYPE>
+			<RIG>Ekin</RIG>
+			<AI>.4</AI>
+		</CARD>
+		<CARD g="9" c="0" w="0" name="Jade" edition="1.7" rarity="2" id="card0000099">
+			<ACTION location="battle" type="zealot" value="3"></ACTION>
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="3"></ACTION>
+			<TYPE>Acolyte</TYPE>
+			<TYPE>Fighter</TYPE>
+			<RIG>Jade</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="0" c="6" w="0" name="Woaleh" edition="1.8" rarity="3" id="card0000100">
+			<ACTION location="battle" type="defense" value="6"></ACTION>
+			<ACTION location="battle" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="3"></ACTION>
+			<ACTION location="home" type="crystal" value="3"></ACTION>
+			<TYPE>Spirit</TYPE>
+			<TYPE>Protector</TYPE>
+			<RIG>Woaleh</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="2" w="0" name="Pep" edition="1.8" rarity="0" id="card0000101">
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Recruiter</TYPE>
+			<RIG>Pep</RIG>
+			<AI>.1</AI>
+		</CARD>
+		<CARD g="0" c="14" w="0" name="Jimein" edition="1.8" rarity="1" id="card0000102">
+			<ACTION location="battle" type="attack" value="12"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Ancient</TYPE>
+			<TYPE>Skeleton</TYPE>
+			<RIG>Jimein</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="7" c="0" w="0" name="Illian" edition="1.8" rarity="1" id="card0000103">
+			<ACTION location="battle" type="honor" value="2"></ACTION>
+			<ACTION location="battle" type="wound" value="2"></ACTION>
+			<ACTION location="home" type="duoTydus" value="4"></ACTION>
+			<TYPE>Rogue</TYPE>
+			<TYPE>Soldier</TYPE>
+			<RIG>Illian</RIG>
+			<AI>.8</AI>
+		</CARD>
+				
+		<!-- WOOD FACTION UPDATE -->
+		
+		<CARD g="0" c="0" w="1" name="Rohk" edition="2.0" rarity="0" id="card0000104">
+			<ACTION location="battle" type="wood" value="1"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="transform" value="4"></ACTION>
+			<TYPE>Herald</TYPE>
+			<RIG>Rohk</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="0" w="0" name="Ob" edition="2.0" rarity="0" id="card0000105" group="wood">
+			<ACTION location="battle" type="wood" value="1"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<ACTION location="home" type="transform" value="1"></ACTION>
+			<TYPE>Root</TYPE>
+			<TYPE>Harvester</TYPE>
+			<RIG>Ob</RIG>
+			<AI>.65</AI>
+		</CARD>
+		<CARD g="0" c="0" w="1" name="Kil" edition="2.0" rarity="1" id="card0000106" group="wood">
+			<ACTION location="battle" type="wood" value="1"></ACTION>
+			<ACTION location="home" type="healing" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Healer</TYPE>
+			<RIG>Kil</RIG>
+			<AI>.05</AI>
+		</CARD>
+		<CARD g="0" c="0" w="8" name="Kren" edition="2.0" rarity="1" id="card0000107">
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="windfall#2" value="8"></ACTION>
+			<TYPE>Dog</TYPE>
+			<TYPE>Protector</TYPE>
+			<RIG>Kren</RIG>
+			<AI>.75</AI>
+		</CARD>
+		<CARD g="0" c="0" w="2" name="Ench" edition="2.0" rarity="0" id="card0000108">
+			<ACTION location="battle" type="attack" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Dog</TYPE>
+			<RIG>Ench</RIG>
+			<AI>.3</AI>
+		</CARD>
+		<CARD g="0" c="0" w="5" name="Teak" edition="2.0" rarity="2" id="card0000109">
+			<ACTION location="battle" type="attack" value="7"></ACTION>
+			<ACTION location="battle" type="burnout" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Thorn</TYPE>
+			<TYPE>Fighter</TYPE>
+			<RIG>Teak</RIG>
+			<AI>.9</AI>
+		</CARD>
+		<CARD g="0" c="0" w="20" name="Blight" edition="2.5" rarity="1" id="card0000110">
+			<ACTION location="battle" type="attack" value="14"></ACTION>
+			<ACTION location="battle" type="wound" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="5"></ACTION>
+			<ACTION location="home" type="fireball" value="5"></ACTION>
+			<TYPE>Ancient</TYPE>
+			<TYPE>Thorn</TYPE>
+			<RIG>Blight</RIG>
+			<AI>.54</AI>
+		</CARD>
+		<CARD g="0" c="0" w="15" name="Era" edition="2.0" rarity="2" id="card0000111">
+			<ACTION location="battle" type="attack" value="14"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="healing" value="6"></ACTION>
+			<TYPE>Ancient</TYPE>
+			<TYPE>Healer</TYPE>
+			<RIG>Era</RIG>
+			<AI>.39</AI>
+		</CARD>
+		<CARD g="0" c="0" w="2" name="Squint" edition="2.0" rarity="0" id="card0000112">
+			<ACTION location="battle" type="wound" value="1"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Fox</TYPE>
+			<TYPE>Thief</TYPE>
+			<RIG>Squint</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="0" c="0" w="5" name="Pyras" edition="2.4" rarity="2" id="card0000113">
+			<ACTION location="battle" type="foxPack" value="2"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<ACTION location="home" type="transform" value="10"></ACTION>
+			<TYPE>Fox</TYPE>
+			<TYPE>Herald</TYPE>
+			<RIG>Pyras</RIG>
+			<AI>.9</AI>
+		</CARD>
+		<CARD g="0" c="0" w="5" name="Tik" edition="2.0" rarity="1" id="card0000114">
+			<ACTION location="battle" type="foxPack" value="1"></ACTION>
+			<ACTION location="battle" type="wound" value="1"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<TYPE>Fox</TYPE>
+			<TYPE>Assassin</TYPE>
+			<RIG>Tik</RIG>
+			<AI>.85</AI>
+		</CARD>
+		<CARD g="0" c="0" w="6" name="Loup" edition="2.0" rarity="0" id="card0000115">
+			<ACTION location="battle" type="wolfPack" value="3"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Wolf</TYPE>
+			<TYPE>Hunter</TYPE>
+			<RIG>Loup</RIG>
+			<AI>.92</AI>
+		</CARD>
+		<CARD g="0" c="0" w="2" name="Slog" edition="2.0" rarity="0" id="card0000116">
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="wood" value="2"></ACTION>
+			<TYPE>Dog</TYPE>
+			<RIG>Slog</RIG>
+			<AI>.2</AI>
+		</CARD>
+		<CARD g="0" c="0" w="6" name="Gumil" edition="2.1" rarity="0" id="card0000117">
+			<ACTION location="battle" type="dogPack" value="2"></ACTION>
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="wood" value="3"></ACTION>
+			<TYPE>Dog</TYPE>
+			<TYPE>Soldier</TYPE>
+			<RIG>Gumil</RIG>
+			<AI>.35</AI>
+		</CARD>
+		<CARD g="0" c="0" w="3" name="Myter" edition="2.0" rarity="1" id="card0000118">
+			<ACTION location="battle" type="attack" value="5"></ACTION>
+			<ACTION location="battle" type="dormant" value="-1000"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Totem</TYPE>
+			<TYPE>Soldier</TYPE>
+			<RIG>Myter</RIG>
+			<AI>.75</AI>
+		</CARD>
+		<CARD g="0" c="0" w="4" name="Reck" edition="2.0" rarity="1" id="card0000119">
+			<ACTION location="battle" type="attack" value="4"></ACTION>
+			<ACTION location="battle" type="dormant" value="-1000"></ACTION>
+			<ACTION location="home" type="wood" value="3"></ACTION>
+			<TYPE>Totem</TYPE>
+			<TYPE>Farmer</TYPE>
+			<RIG>Reck</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="0" c="0" w="18" name="Wail" edition="2.0" rarity="2" id="card0000120">
+			<ACTION location="battle" type="wolfPack" value="7"></ACTION>
+			<ACTION location="home" type="recruit" value="4"></ACTION>
+			<TYPE>Wolf</TYPE>Wail
+			<TYPE>Warlord</TYPE>
+			<RIG>Wail</RIG>
+			<AI>.93</AI>
+		</CARD>
+		<CARD g="0" c="0" w="3" name="Roko" edition="2.0" rarity="0" id="card0000121">
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="healing" value="2"></ACTION>
+			<TYPE>Dog</TYPE>
+			<TYPE>Healer</TYPE>
+			<RIG>Roko</RIG>
+			<AI>.26</AI>
+		</CARD>
+		<CARD g="0" c="0" w="1" name="Diug" edition="2.0" rarity="0" id="card0000122">
+			<ACTION location="battle" type="wood" value="2"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Totem</TYPE>
+			<RIG>Diug</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="0" c="0" w="5" name="Doken" edition="2.0" rarity="1" id="card0000123">
+			<ACTION location="battle" type="arrow" value="1"></ACTION>
+			<ACTION location="battle" type="dormant" value="-1000"></ACTION>
+			<ACTION location="home" type="arrow" value="2"></ACTION>
+			<TYPE>Archer</TYPE>
+			<TYPE>Monk</TYPE>
+			<RIG>Doken</RIG>
+			<AI>.4</AI>
+		</CARD>
+		<CARD g="0" c="0" w="6" name="Grove" edition="2.0" rarity="1" id="card0000124">
+			<ACTION location="battle" type="revenge" value="3"></ACTION>
+			<ACTION location="battle" type="dormant" value="-1000"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<ACTION location="home" type="wood" value="2"></ACTION>
+			<TYPE>Monk</TYPE>
+			<TYPE>Avenger</TYPE>
+			<RIG>Grove</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="0" w="3" name="Elgi" edition="2.1" rarity="0" id="card0000125">
+			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="protect" value="4"></ACTION>
+			<TYPE>Rat</TYPE>
+			<TYPE>Minion</TYPE>
+			<RIG>Elgi</RIG>
+			<AI>.25</AI>
+		</CARD>
+		<CARD g="0" c="0" w="3" name="Kurio" edition="2.0" rarity="1" id="card0000126">
+			<ACTION location="battle" type="spearhead" value="1"></ACTION>
+			<ACTION location="battle" type="burnout" value="4"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<TYPE>Thorn</TYPE>
+			<TYPE>Root</TYPE>
+			<RIG>Kurio</RIG>
+			<AI>.9</AI>
+		</CARD>
+		<CARD g="0" c="0" w="0" name="Rowa" edition="2.0" rarity="0" id="card0000127" group="wood">
+			<ACTION location="battle" type="attack" value="2"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Root</TYPE>
+			<RIG>Rowa</RIG>
+			<AI>.95</AI>
+		</CARD>
+		<CARD g="0" c="0" w="3" name="Feng" edition="2.0" rarity="1" id="card0000128">
+			<ACTION location="battle" type="wolfPack" value="2"></ACTION>
+			<ACTION location="battle" type="burnout" value="6"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<TYPE>Wolf</TYPE>
+			<RIG>Feng</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="0" c="0" w="14" name="Cast" edition="2.1" rarity="3" id="card0000129">
+			<ACTION location="battle" type="spearhead" value="3"></ACTION>
+			<ACTION location="battle" type="dormant" value="-1000"></ACTION>
+			<ACTION location="home" type="wood" value="5"></ACTION>
+			<TYPE>Soul</TYPE>
+			<TYPE>Totem</TYPE>
+			<RIG>Cast</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="0" c="2" w="2" name="Gorg" edition="2.0" rarity="2" id="card0000130">
+			<ACTION location="battle" type="steal" value="1"></ACTION>
+			<ACTION location="battle" type="wound" value="1"></ACTION>
+			<ACTION location="home" type="wood" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<TYPE>Rat</TYPE>
+			<TYPE>Raider</TYPE>
+			<RIG>Gorg</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="1" c="0" w="1" name="Mull" edition="2.0" rarity="0" id="card0000131">
+			<ACTION location="battle" type="wood" value="2"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<TYPE>Tamed</TYPE>
+			<TYPE>Rat</TYPE>
+			<RIG>Mull</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="1" w="1" name="Qit" edition="2.0" rarity="0" id="card0000132">
+			<ACTION location="battle" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="wood" value="2"></ACTION>
+			<TYPE>Twisted</TYPE>
+			<TYPE>Rat</TYPE>
+			<RIG>Qit</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="2" c="0" w="0" name="Hammot" edition="2.0" rarity="1" id="card0000133">
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<TYPE>Rat</TYPE>
+			<TYPE>Farmer</TYPE>
+			<RIG>Hammot</RIG>
+			<AI>.3</AI>
+		</CARD>
+		<CARD g="0" c="0" w="4" name="Noch" edition="2.2" rarity="1" id="card0000134">
+			<ACTION location="battle" type="toxic" value="10"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<TYPE>Frog</TYPE>
+			<RIG>Noch</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="0" c="0" w="8" name="Uvil" edition="2.2" rarity="2" id="card0000135">
+			<ACTION location="battle" type="toxic" value="16"></ACTION>
+			<ACTION location="home" type="wood" value="3"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Giant</TYPE>
+			<TYPE>Frog</TYPE>
+			<RIG>Uvil</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="0" c="5" w="3" name="Xane" edition="2.2" rarity="3" id="card0000136">
+			<ACTION location="battle" type="bolt" value="1"></ACTION>
+			<ACTION location="battle" type="spearhead" value="1"></ACTION>
+			<ACTION location="home" type="wood" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="3"></ACTION>
+			<TYPE>Shade</TYPE>
+			<TYPE>Thorn</TYPE>
+			<RIG>Xane</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="2" c="0" w="3" name="Tavi" edition="2.2" rarity="2" id="card0000137">
+			<ACTION location="battle" type="rampage" value="3"></ACTION>
+			<ACTION location="battle" type="arrow" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="3"></ACTION>
+			<TYPE>Fox</TYPE>
+			<TYPE>Assassin</TYPE>
+			<RIG>Tavi</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="0" c="3" w="3" name="Ool" edition="2.2" rarity="2" id="card0000138">
+			<ACTION location="battle" type="totemfarm" value="2"></ACTION>
+			<ACTION location="home" type="transform" value="15"></ACTION>
+			<TYPE>Ancient</TYPE>
+			<TYPE>Wisp</TYPE>
+			<RIG>Ool</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="0" c="0" w="3" name="Flyt" edition="2.4" rarity="0" id="card0000139">
+			<ACTION location="battle" type="foxPack" value="2"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<TYPE>Fox</TYPE>
+			<TYPE>Vanguard</TYPE>
+			<RIG>Flyt</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="0" c="3" w="0" name="Nevil" edition="2.5" rarity="1" id="card0000140">
+			<ACTION location="battle" type="spiritLord" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="renegade" value="0"></ACTION>
+			<TYPE>Soul</TYPE>
+			<TYPE>Slayer</TYPE>
+			<RIG>Nevil</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="0" c="9" w="0" name="Chal" edition="2.4" rarity="1" id="card0000141">
+			<ACTION location="battle" type="honor" value="9"></ACTION>
+			<ACTION location="battle" type="toxic" value="9"></ACTION>
+			<ACTION location="home" type="fireball" value="3"></ACTION>
+			<ACTION location="home" type="frail" value="-1000"></ACTION>
+			<TYPE>Fell</TYPE>
+			<TYPE>Knight</TYPE>
+			<RIG>Chal</RIG>
+			<AI>.8</AI>
+		</CARD>
+		<CARD g="0" c="0" w="6" name="Ansel" edition="2.4" rarity="0" id="card0000142">
+			<ACTION location="battle" type="dogPack" value="3"></ACTION>
+			<ACTION location="home" type="protect" value="5"></ACTION>
+			<TYPE>Dog</TYPE>
+			<RIG>Ansel</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="6" c="0" w="0" name="Drion" edition="2.4" rarity="2" id="card0000143">
+			<ACTION location="battle" type="knockout" value="3"></ACTION>
+			<ACTION location="home" type="wood" value="4"></ACTION>
+			<TYPE>Thief</TYPE>
+			<TYPE>Brawler</TYPE>
+			<RIG>Drion</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="4" w="0" name="Doro" edition="2.5" rarity="1" id="card0000144">
+			<ACTION location="battle" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<TYPE>Harvester</TYPE>
+			<TYPE>Golem</TYPE>
+			<RIG>Doro</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="0" c="8" w="0" name="Gaeis" edition="2.5" rarity="1" id="card0000145">
+			<ACTION location="battle" type="golemSurge" value="4"></ACTION>
+			<ACTION location="battle" type="burnout" value="5"></ACTION>
+			<ACTION location="home" type="golemShield" value="-1000"></ACTION>
+			<ACTION location="home" type="frail" value="-1000"></ACTION>
+			<TYPE>Summoner</TYPE>
+			<RIG>Gaeis</RIG>
+			<AI>.4</AI>
+		</CARD>
+		<CARD g="0" c="6" w="0" name="Trathor" edition="2.5" rarity="2" id="card0000146">
+			<ACTION location="battle" type="toxic" value="10"></ACTION>
+			<ACTION location="battle" type="taskmaster" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="3"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<TYPE>Harvester</TYPE>
+			<TYPE>Overseer</TYPE>
+			<RIG>Trathor</RIG>
+			<AI>.4</AI>
+		</CARD>
+	</CARDLIST>
+	<CITYLIST>
+		<CITY name="Opponent" edition="1" rarity="0" id="cityDummy">
+			<TYPE>Has Not Chosen</TYPE>
+			<RIG>CityDummy</RIG>
+		</CITY>
+		<CITY name="The Helm" edition="1" rarity="1" groundType="Human1" id="city0000000">
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Human</TYPE>
+			<TYPE>Magic</TYPE>
+			<RIG>City0000000</RIG>
+		</CITY>
+		<CITY name="Titan Ridge" edition="1" rarity="0" groundType="Human1" id="city0000001">
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="4"></ACTION>
+			<TYPE>Human</TYPE>
+			<RIG>City0000001</RIG>
+		</CITY>
+		<CITY name="Dwila" edition="1" rarity="0" groundType="Magic1" id="city0000002">
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="4"></ACTION>
+			<TYPE>Magic</TYPE>
+			<RIG>City0000002</RIG>
+		</CITY>
+		<CITY name="Crystal Camp" edition="1" rarity="1" groundType="Magic1" id="city0000003">
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Human</TYPE>
+			<TYPE>Magic</TYPE>
+			<RIG>City0000003</RIG>
+		</CITY>
+		<CITY name="Sacred Woods" edition="1" rarity="0" groundType="Forest1" id="city0000004">
+			<ACTION location="home" type="wood" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="4"></ACTION>
+			<TYPE>Forest</TYPE>
+			<RIG>City0000004</RIG>
+		</CITY>
+		<CITY name="The Den" edition="1" rarity="1" groundType="Forest1" id="city0000005">
+			<ACTION location="home" type="wood" value="2"></ACTION>
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Human</TYPE>
+			<TYPE>Forest</TYPE>
+			<RIG>City0000005</RIG>
+		</CITY>
+		<CITY name="Forest Village" edition="1" rarity="1" groundType="Forest1" id="city0000006">
+			<ACTION location="home" type="wood" value="2"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Magic</TYPE>
+			<TYPE>Forest</TYPE>
+			<RIG>City0000006</RIG>
+		</CITY>
+		<CITY name="Outfitter" edition="1" rarity="1" groundType="Human1" id="city0000007">
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Human</TYPE>
+			<TYPE>Forest</TYPE>
+			<RIG>City0000007</RIG>
+		</CITY>
+		<CITY name="The Grotto" edition="1" rarity="1" groundType="Forest1" id="city0000008">
+			<ACTION location="home" type="crystal" value="2"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
+			<TYPE>Magic</TYPE>
+			<TYPE>Forest</TYPE>
+			<RIG>City0000008</RIG>
+		</CITY>
+		<CITY name="Shadow Pylon" edition="1" rarity="2" groundType="Magic1" id="city0000009">
+			<ACTION location="home" type="gold" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="wood" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="4"></ACTION>
+			<TYPE>Human</TYPE>
+			<TYPE>Magic</TYPE>
+			<TYPE>Forest</TYPE>
+			<RIG>City0000009</RIG>
+		</CITY>
+	</CITYLIST>
+</data>
