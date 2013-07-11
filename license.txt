@@ -1,0 +1,20 @@
+Copyright (c) 2012 Spry Fox LLC and Heart Shaped Games LLC
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of these files and associated documentation 
+(the "Assets"), to use the Assets for non-commercial, 
+not-for-profit purposes. Additionally, the Assets may NOT be 
+used in a game of any kind. Use of the Assets are subject 
+to the following conditions:
+
+1) The Assets may not be used to defame any party, or in ways that spread hatred.
+2) The Assets may not be used to harm the interests of Spry Fox or Heart Shaped Games.
+3) The Assets are provided "as is", without warranty of any kind, express or implied, 
+including but not limited to the warranties of merchantability, fitness for a particular 
+purpose and noninfringement. In no event shall the authors or copyright holders be liable 
+for any claim, damages or other liability, whether in action of contract, tort or 
+otherwise, arising from, out of or in connection with the Assets or the use or other 
+dealings in the Assets.
+
+Any public use of the Assets must include a link to http://www.highgroundsgame.com and 
+must declare that the Assets are the property of Spry Fox LLC and Heart Shaped Games LLC.
