@@ -1,6 +1,6 @@
 {
   "name": "HighgroundsAssets",
-  "version": "0.1.0",
+  "version": "1.26.0",
   "description": "Highgrounds game assets",
   "main": "build/highgrounds.json",
   "scripts": {
