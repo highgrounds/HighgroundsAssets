@@ -1358,7 +1358,7 @@
 		</CARD>
 		<CARD g="2" c="0" w="0" name="Serge" edition="2.8" rarity="0" id="card0000159" set="1">
 			<ACTION location="battle" type="siege" value="1"></ACTION>
-			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="2"></ACTION>
 			<TYPE>Bodyguard</TYPE>
 			<RIG ArmRight="farmer" Body="soldier3" Eye="blank" FootLeft="farmer" FootRight="farmer" Hat="blank" Head="fighter01" ItemDefense="knockout" ItemOffense="knockout" LowerLeftArm="soldier2" UpperLeftArm="archer">Serge</RIG>
 			<AI>.88</AI>
@@ -1397,7 +1397,7 @@
 		</CARD>
 		<CARD g="5" c="0" w="0" name="Raleigh" edition="2.8" rarity="2" id="card0000164" set="1">
 			<ACTION location="battle" type="flourish" value="3"></ACTION>
-			<ACTION location="home" type="protect" value="5"></ACTION>
+			<ACTION location="home" type="protect" value="6"></ACTION>
 			<TYPE>Vanguard</TYPE>
 			<TYPE>Knight</TYPE>
 			<RIG ArmRight="eliteknightblue" Body="eliteknightblue" Eye="blank" FootLeft="eliteknightblue" FootRight="eliteknightblue" Hat="blank" Head="eliteknightblue" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="eliteknightblue" UpperLeftArm="eliteknightblue" eye_closed="blank" eye_wounded="blank">Raleigh</RIG>
@@ -1489,9 +1489,9 @@
 			<RIG ArmRight="batwarrior" Body="batwarrior" Eye="blank" FootLeft="batwarrior" FootRight="batwarrior" Hat="blank" Head="batwarrior" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="batwarrior" UpperLeftArm="batwarrior" eye_closed="blank" eye_wounded="blank">Aethon</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="0" c="5" w="0" name="Igmund" edition="2.8" rarity="2" id="card0000175" set="1">
+		<CARD g="0" c="6" w="0" name="Igmund" edition="2.8" rarity="2" id="card0000175" set="1">
 			<ACTION location="battle" type="frenzy" value="-9999"></ACTION>
-			<ACTION location="battle" type="burnout" value="5"></ACTION>
+			<ACTION location="battle" type="burnout" value="6"></ACTION>
 			<ACTION location="home" type="recruit" value="3"></ACTION>
 			<TYPE>Crypt</TYPE>
 			<TYPE>Ghoul</TYPE>
@@ -1508,7 +1508,7 @@
 			<RIG ArmRight="lostsoul" Body="lostsoul" Eye="blank" FootLeft="lostsoul" FootRight="blank" Hat="blank" Head="lostsoul" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="lostsoul" UpperLeftArm="lostsoul" eye_closed="blank" eye_wounded="blank">Ghasper</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="0" c="13" w="0" name="Anrick" edition="2.8" rarity="3" id="card0000177" set="1">
+		<CARD g="0" c="11" w="0" name="Anrick" edition="2.8" rarity="3" id="card0000177" set="1">
 			<ACTION location="battle" type="bolt" value="3"></ACTION>
 			<ACTION location="home" type="crystal" value="11"></ACTION>
 			<ACTION location="home" type="ethereal" value="-1000"></ACTION>
@@ -1609,10 +1609,10 @@
 			<AI>.5</AI>
 		</CARD>
 		<CARD g="0" c="0" w="10" name="Adrog" edition="2.8" rarity="2" id="card0000188" set="1">
-			<ACTION location="battle" type="defense" value="9"></ACTION>
+			<ACTION location="battle" type="defense" value="10"></ACTION>
 			<ACTION location="battle" type="siege" value="1"></ACTION>
-			<ACTION location="home" type="protect" value="9"></ACTION>
-			<ACTION location="home" type="guardian" value="1"></ACTION>
+			<ACTION location="home" type="protect" value="10"></ACTION>
+			<ACTION location="home" type="guardian" value="2"></ACTION>
 			<TYPE>Mountain</TYPE>
 			<TYPE>Dragon</TYPE>
 			<RIG ArmRight="reddragon" Body="reddragon" Eye="blank" FootLeft="reddragon" FootRight="reddragon" Hat="blank" Head="reddragon" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="reddragon" UpperLeftArm="reddragon" eye_closed="blank" eye_wounded="blank">Adrog</RIG>
@@ -1620,8 +1620,9 @@
 		</CARD>
 		<CARD g="0" c="0" w="7" name="Abbie" edition="2.8" rarity="1" id="card0000189" set="1">
 			<ACTION location="battle" type="wound" value="1"></ACTION>
-			<ACTION location="battle" type="defense" value="4"></ACTION>
-			<ACTION location="home" type="transform" value="10"></ACTION>
+			<ACTION location="battle" type="defense" value="5"></ACTION>
+			<ACTION location="home" type="wood" value="3"></ACTION>
+			<ACTION location="home" type="transform" value="7"></ACTION>
 			<TYPE>Fox</TYPE>
 			<TYPE>Warden</TYPE>
 			<RIG ArmRight="warden2" Body="warden2" Eye="blank" FootLeft="warden2" FootRight="warden2" Hat="blank" Head="warden2" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="warden2" UpperLeftArm="warden2" eye_closed="blank" eye_wounded="blank">Abbie</RIG>
@@ -1704,9 +1705,9 @@
 			<AI>.5</AI>
 		</CARD>
 		<CARD g="0" c="3" w="0" name="Urn" edition="2.8" rarity="1" id="card0000198" set="1">
-			<ACTION location="battle" type="crystal" value="1"></ACTION>
+			<ACTION location="battle" type="crystal" value="2"></ACTION>
 			<ACTION location="battle" type="attack" value="1"></ACTION>
-			<ACTION location="home" type="crystal" value="1"></ACTION>
+			<ACTION location="home" type="crystal" value="2"></ACTION>
 			<ACTION location="home" type="defense" value="1"></ACTION>
 			<TYPE>Skeleton</TYPE>
 			<TYPE>Wisp</TYPE>
