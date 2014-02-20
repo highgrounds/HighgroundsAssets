@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <data>
-	<CARDLIST name="1st Edition" version="2.8">
+	<CARDLIST name="1st Edition" version="3.3">
 		<CARD g="0" c="0" w="0" name="Unknown" edition="-1" rarity="-1" id="Unknown">
 			<RIG ArmRight="grey" Body="grey" Eye="blank" FootLeft="grey" FootRight="grey" Hat="blank" Head="grey" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="grey" UpperLeftArm="grey">Unknown</RIG>
 		</CARD>
@@ -43,7 +43,7 @@
 		<CARD g="3" c="0" w="0" name="Abban" edition="1" rarity="0" id="card0000005">
 			<ACTION location="battle" type="attack" value="3"></ACTION>
 			<ACTION location="home" type="gold" value="1"></ACTION>
-			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
 			<TYPE>Soldier</TYPE>
 			<TYPE>Veteran</TYPE>
 			<RIG ArmRight="soldier" Body="soldier" Eye="soldier" FootLeft="soldier" FootRight="soldier" Hat="soldier" Head="soldier" ItemDefense="soldier" ItemOffense="soldier" LowerLeftArm="soldier" UpperLeftArm="soldier">Abban</RIG>
@@ -79,8 +79,8 @@
 			<RIG ArmRight="troll" Body="thief" Eye="troll" FootLeft="troll" FootRight="troll" Hat="troll" Head="troll2" ItemDefense="cleric" ItemOffense="troll" LowerLeftArm="assassin" UpperLeftArm="thief">Payne</RIG>
 			<AI>.82</AI>
 		</CARD>
-		<CARD g="7" c="0" w="0" name="Jolien" edition="1.6" rarity="1" id="card0000010">
-			<ACTION location="battle" type="attack" value="2"></ACTION>
+		<CARD g="7" c="0" w="0" name="Jolien" edition="2.9" rarity="1" id="card0000010">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
 			<ACTION location="home" type="healing" value="3"></ACTION>
 			<TYPE>Healer</TYPE>
 			<TYPE>Fighter</TYPE>
@@ -105,7 +105,7 @@
 			<RIG ArmRight="farmer" Body="farmer" Eye="soldier" FootLeft="farmer" FootRight="farmer" Hat="blank" Head="farmer2" ItemDefense="farmer" ItemOffense="king" LowerLeftArm="farmer" UpperLeftArm="farmer">Horus</RIG>
 			<AI>.55</AI>
 		</CARD>
-		<CARD g="7" c="0" w="0" name="Grom" edition="1" rarity="2" id="card0000013">
+		<CARD g="6" c="0" w="0" name="Grom" edition="1" rarity="2.9" id="card0000013">
 			<ACTION location="battle" type="attack" value="3"></ACTION>
 			<ACTION location="battle" type="defense" value="3"></ACTION>
 			<ACTION location="home" type="gold" value="2"></ACTION>
@@ -314,7 +314,7 @@
 			<RIG ArmRight="wizard4" Body="wizard4" Eye="blank" FootLeft="wizard4" FootRight="blank" Hat="blank" Head="wizard4" ItemDefense="recruiter" ItemOffense="bolt" LowerLeftArm="wizard4" UpperLeftArm="wizard4" eye_closed="blank" eye_wounded="blank">Jacen</RIG>
 			<AI>.93</AI>
 		</CARD>
-		<CARD g="2" c="0" w="0" name="Willem" edition="1.6" rarity="1" id="card0000038">
+		<CARD g="1" c="0" w="0" name="Willem" edition="2.9" rarity="1" id="card0000038">
 			<ACTION location="battle" type="attack" value="1"></ACTION>
 			<ACTION location="home" type="atkSquire" value="1"></ACTION>
 			<ACTION location="home" type="defense" value="1"></ACTION>
@@ -349,10 +349,10 @@
 			<RIG ArmRight="barbarian3" Body="barbarian3" Eye="blank" FootLeft="barbarian3" FootRight="barbarian3" Hat="blank" Head="barbarian3" ItemDefense="recruiter" ItemOffense="knockout" LowerLeftArm="barbarian3" UpperLeftArm="barbarian3" eye_closed="blank" eye_wounded="blank">Crusher</RIG>
 			<AI>.87</AI>
 		</CARD>
-		<CARD g="3" c="0" w="0" name="Scrapper" edition="1" rarity="1" id="card0000042">
+		<CARD g="3" c="0" w="0" name="Scrapper" edition="2.9" rarity="1" id="card0000042">
 			<ACTION location="battle" type="knockout" value="1"></ACTION>
 			<ACTION location="battle" type="attack" value="1"></ACTION>
-			<ACTION location="home" type="recruit" value="2"></ACTION>
+			<ACTION location="home" type="recruit" value="3"></ACTION>
 			<TYPE>Barbarian</TYPE>
 			<RIG ArmRight="barbarian6" Body="barbarian6" Eye="blank" FootLeft="barbarian" FootRight="barbarian" Hat="blank" Head="barbarian6" ItemDefense="recruiter" ItemOffense="knockout" LowerLeftArm="barbarian5" UpperLeftArm="barbarian6" eye_closed="blank" eye_wounded="blank">Scrapper</RIG>
 			<AI>.5</AI>
@@ -381,7 +381,7 @@
 			<RIG ArmRight="golem" Body="golem" Eye="blank" FootLeft="golem" FootRight="golem" Hat="blank" Head="golem" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="golem" UpperLeftArm="golem" eye_closed="blank" eye_wounded="blank">Varo</RIG>
 			<AI>.89</AI>
 		</CARD>
-		<CARD g="6" c="0" w="0" name="Wren" edition="1.4" rarity="3" id="card0000046">
+		<CARD g="5" c="0" w="0" name="Wren" edition="2.9" rarity="3" id="card0000046">
 			<ACTION location="battle" type="attack" value="4"></ACTION>
 			<ACTION location="battle" type="defense" value="2"></ACTION>
 			<ACTION location="home" type="recruit" value="6"></ACTION>
@@ -392,7 +392,7 @@
 		</CARD>
 		<CARD g="3" c="0" w="0" name="Andor" edition="1.6" rarity="2" id="card0000047">
 			<ACTION location="battle" type="attack" value="1"></ACTION>
-			<ACTION location="battle" type="defense" value="1"></ACTION>
+			<ACTION location="battle" type="defense" value="2"></ACTION>
 			<ACTION location="home" type="atkSquire" value="2"></ACTION>
 			<TYPE>Squire</TYPE>
 			<RIG ArmRight="squire2" Body="squire2" Eye="blank" FootLeft="squire2" FootRight="squire2" Hat="blank" Head="squire2" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="squire2" UpperLeftArm="squire2" eye_closed="blank" eye_wounded="blank">Andor</RIG>
@@ -716,12 +716,13 @@
 			<ACTION location="battle" type="attack" value="2"></ACTION>
 			<ACTION location="home" type="gold" value="1"></ACTION>
 			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Mountain</TYPE>
 			<TYPE>Miner</TYPE>
 			<RIG ArmRight="miner" Body="miner" Eye="blank" FootLeft="miner" FootRight="miner" Hat="blank" Head="miner" ItemDefense="miner" ItemOffense="miner" LowerLeftArm="miner" UpperLeftArm="miner" eye_closed="blank" eye_wounded="blank">Vince</RIG>
 			<AI>.2</AI>
 		</CARD>
-		<CARD g="5" c="0" w="0" name="Lapp" edition="1.5" rarity="2" id="card0000087">
-			<ACTION location="battle" type="attack" value="4"></ACTION>
+		<CARD g="5" c="0" w="0" name="Lapp" edition="2.9" rarity="2" id="card0000087">
+			<ACTION location="battle" type="attack" value="5"></ACTION>
 			<ACTION location="home" type="arrow" value="1"></ACTION>
 			<ACTION location="home" type="defense" value="1"></ACTION>
 			<TYPE>Mountain</TYPE>
@@ -757,19 +758,19 @@
 			<RIG ArmRight="king" Body="king" Eye="blank" FootLeft="king" FootRight="king" Hat="blank" Head="king" ItemDefense="knight" ItemOffense="knight" LowerLeftArm="king" UpperLeftArm="king" eye_closed="blank" eye_wounded="blank">Arthur</RIG>
 			<AI>.6</AI>
 		</CARD>
-		<CARD g="4" c="0" w="0" name="Morgart" edition="1.6" rarity="0" id="card0000091">
+		<CARD g="3" c="0" w="0" name="Morgart" edition="2.9" rarity="0" id="card0000091">
 			<ACTION location="battle" type="defense" value="3"></ACTION>
-			<ACTION location="home" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="defense" value="3"></ACTION>
 			<ACTION location="home" type="windfall#0" value="3"></ACTION>
 			<TYPE>Pikeman</TYPE>
 			<RIG ArmRight="pikeman" Body="pikeman" Eye="blank" FootLeft="acolyte" FootRight="acolyte" Hat="blank" Head="pikeman" ItemDefense="soldier" ItemOffense="pikeman" LowerLeftArm="pikeman" UpperLeftArm="pikeman" eye_closed="blank" eye_wounded="blank">Morgart</RIG>
 			<AI>.6</AI>
 		</CARD>
-		<CARD g="2" c="0" w="0" name="Hagel" edition="1.6" rarity="2" id="card0000092">
+		<CARD g="2" c="0" w="0" name="Hagel" edition="3.3" rarity="2" id="card0000092">
 			<ACTION location="battle" type="crystal" value="2"></ACTION>
 			<ACTION location="home" type="gold" value="1"></ACTION>
 			<ACTION location="home" type="defense" value="1"></ACTION>
-			<TYPE>Crystal</TYPE>
+			<TYPE>Wizard</TYPE>
 			<TYPE>Miner</TYPE>
 			<RIG ArmRight="crystalminer" Body="crystalminer" Eye="blank" FootLeft="crystalminer" FootRight="crystalminer" Hat="blank" Head="crystalminer" ItemDefense="miner" ItemOffense="miner" LowerLeftArm="crystalminer" UpperLeftArm="crystalminer" eye_closed="blank" eye_wounded="blank">Hagel</RIG>
 			<AI>.5</AI>
@@ -900,10 +901,10 @@
 			<RIG ArmRight="reck1" Body="reck1" Eye="blank" FootLeft="reck1" FootRight="blank" Hat="blank" Head="reck1" ItemDefense="rootstaff" ItemOffense="rootstaff" LowerLeftArm="reck1" UpperLeftArm="reck1" eye_closed="blank" eye_wounded="blank">Kil</RIG>
 			<AI>.14</AI>
 		</CARD>
-		<CARD g="0" c="0" w="8" name="Kren" edition="2.0" rarity="2" id="card0000107">
-			<ACTION location="battle" type="defense" value="2"></ACTION>
+		<CARD g="0" c="0" w="7" name="Kren" edition="3.2" rarity="2" id="card0000107">
+			<ACTION location="battle" type="dogPack" value="1"></ACTION>
 			<ACTION location="battle" type="frail" value="-1000"></ACTION>
-			<ACTION location="home" type="windfall#2" value="8"></ACTION>
+			<ACTION location="home" type="windfall#2" value="7"></ACTION>
 			<TYPE>Dog</TYPE>
 			<TYPE>Protector</TYPE>
 			<RIG ArmRight="" Body="fox3" Eye="blank" FootLeft="fox3" FootRight="fox3" Hat="blank" Head="fox3" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="fox3" UpperLeftArm="fox3" eye_closed="blank" eye_wounded="blank">Kren</RIG>
@@ -925,8 +926,8 @@
 			<RIG ArmRight="root2" Body="root2" Eye="blank" FootLeft="root2" FootRight="root2" Hat="blank" Head="root2" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="root2" UpperLeftArm="root2" eye_closed="blank" eye_wounded="blank">Teak</RIG>
 			<AI>.9</AI>
 		</CARD>
-		<CARD g="0" c="0" w="20" name="Blight" edition="2.5" rarity="2" id="card0000110">
-			<ACTION location="battle" type="attack" value="14"></ACTION>
+		<CARD g="0" c="0" w="20" name="Blight" edition="2.9" rarity="2" id="card0000110">
+			<ACTION location="battle" type="attack" value="13"></ACTION>
 			<ACTION location="battle" type="wound" value="2"></ACTION>
 			<ACTION location="home" type="recruit" value="5"></ACTION>
 			<ACTION location="home" type="fireball" value="5"></ACTION>
@@ -979,8 +980,8 @@
 			<RIG ArmRight="scotty1" Body="scotty1" Eye="blank" FootLeft="scotty1" FootRight="scotty1" Hat="blank" Head="scotty1" ItemDefense="samuraisword" ItemOffense="samuraisword" LowerLeftArm="scotty1" UpperLeftArm="scotty1" eye_closed="blank" eye_wounded="blank">Loup</RIG>
 			<AI>.92</AI>
 		</CARD>
-		<CARD g="0" c="0" w="2" name="Slog" edition="2.0" rarity="0" id="card0000116">
-			<ACTION location="battle" type="defense" value="1"></ACTION>
+		<CARD g="0" c="0" w="2" name="Slog" edition="3.2" rarity="0" id="card0000116">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
 			<ACTION location="home" type="wood" value="2"></ACTION>
 			<TYPE>Dog</TYPE>
 			<RIG ArmRight="dog3" Body="dog3" Eye="blank" FootLeft="dog3" FootRight="dog3" Hat="blank" Head="dog3" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="dog3" UpperLeftArm="dog3" eye_closed="blank" eye_wounded="blank">Slog</RIG>
@@ -1030,11 +1031,11 @@
 			<RIG ArmRight="dog1" Body="dog1" Eye="blank" FootLeft="dog1" FootRight="dog1" Hat="blank" Head="dog1" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="dog1" UpperLeftArm="dog1" eye_closed="blank" eye_wounded="blank">Roko</RIG>
 			<AI>.02</AI>
 		</CARD>
-		<CARD g="0" c="0" w="1" name="Diug" edition="2.0" rarity="0" id="card0000122">
+		<CARD g="0" c="0" w="1" name="Diug" edition="3.1" rarity="0" id="card0000122">
 			<ACTION location="battle" type="wood" value="2"></ACTION>
 			<ACTION location="battle" type="frail" value="-1000"></ACTION>
-			<ACTION location="home" type="wood" value="1"></ACTION>
 			<ACTION location="home" type="recruit" value="1"></ACTION>
+			<ACTION location="home" type="renegade" value="0"></ACTION>
 			<TYPE>Totem</TYPE>
 			<RIG ArmRight="totem2" Body="totem2" Eye="blank" FootLeft="totem2" FootRight="totem2" Hat="blank" Head="totem2" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="totem2" UpperLeftArm="totem2" eye_closed="blank" eye_wounded="blank">Diug</RIG>
 			<AI>.6</AI>
@@ -1058,10 +1059,10 @@
 			<RIG ArmRight="monk1" Body="monk1" Eye="blank" FootLeft="monk1" FootRight="monk1" Hat="blank" Head="monk1" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="monk1" UpperLeftArm="monk1" eye_closed="blank" eye_wounded="blank">Grove</RIG>
 			<AI>.4</AI>
 		</CARD>
-		<CARD g="0" c="0" w="3" name="Elgi" edition="2.1" rarity="1" id="card0000125">
+		<CARD g="0" c="0" w="3" name="Elgi" edition="2.9" rarity="1" id="card0000125">
 			<ACTION location="battle" type="defense" value="1"></ACTION>
 			<ACTION location="battle" type="frail" value="-1000"></ACTION>
-			<ACTION location="home" type="protect" value="4"></ACTION>
+			<ACTION location="home" type="protect" value="5"></ACTION>
 			<TYPE>Rat</TYPE>
 			<TYPE>Minion</TYPE>
 			<RIG ArmRight="rat3" Body="rat3" Eye="blank" FootLeft="rat3" FootRight="rat3" Hat="blank" Head="rat3" ItemDefense="soldier" ItemOffense="soldier" LowerLeftArm="rat3" UpperLeftArm="rat3" eye_closed="blank" eye_wounded="blank">Elgi</RIG>
@@ -1127,8 +1128,8 @@
 			<RIG ArmRight="rat1" Body="rat1" Eye="blank" FootLeft="rat1" FootRight="rat1" Hat="blank" Head="rat1" ItemDefense="ratknife" ItemOffense="ratknife" LowerLeftArm="rat1" UpperLeftArm="rat1" eye_closed="blank" eye_wounded="blank">Qit</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="2" c="0" w="0" name="Hammot" edition="2.0" rarity="2" id="card0000133">
-			<ACTION location="battle" type="defense" value="1"></ACTION>
+		<CARD g="2" c="0" w="0" name="Hammot" edition="3.3" rarity="2" id="card0000133">
+			<ACTION location="battle" type="defense" value="2"></ACTION>
 			<ACTION location="home" type="gold" value="1"></ACTION>
 			<ACTION location="home" type="wood" value="1"></ACTION>
 			<TYPE>Rat</TYPE>
@@ -1144,10 +1145,10 @@
 			<RIG ArmRight="frog1" Body="frog1" Eye="blank" FootLeft="frog1" FootRight="frog1" Hat="blank" Head="frog1" ItemDefense="soldier" ItemOffense="soldier" LowerLeftArm="frog1" UpperLeftArm="frog1" eye_closed="blank" eye_wounded="blank">Noch</RIG>
 			<AI>.94</AI>
 		</CARD>
-		<CARD g="0" c="0" w="8" name="Uvil" edition="2.2" rarity="3" id="card0000135">
-			<ACTION location="battle" type="toxic" value="16"></ACTION>
+		<CARD g="0" c="0" w="7" name="Uvil" edition="2.9" rarity="3" id="card0000135">
+			<ACTION location="battle" type="toxic" value="14"></ACTION>
 			<ACTION location="home" type="wood" value="3"></ACTION>
-			<ACTION location="home" type="defense" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
 			<TYPE>Giant</TYPE>
 			<TYPE>Frog</TYPE>
 			<RIG ArmRight="frog2" Body="frog2" Eye="blank" FootLeft="frog2" FootRight="frog2" Hat="blank" Head="frog2" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="frog2" UpperLeftArm="frog2" eye_closed="blank" eye_wounded="blank">Uvil</RIG>
@@ -1294,7 +1295,7 @@
 			<RIG ArmRight="blank" Body="wisp04" Eye="blank" FootLeft="blank" FootRight="blank" Hat="blank" Head="wisp04" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="blank" UpperLeftArm="blank" eye_closed="blank" eye_wounded="blank">Mox</RIG>
 			<AI>.4</AI>
 		</CARD>
-		<CARD g="5" c="0" w="2" name="Caylish" edition="2.6" rarity="3" id="card0000152">
+		<CARD g="4" c="0" w="2" name="Caylish" edition="3.3" rarity="3" id="card0000152">
 			<ACTION location="battle" type="spearhead" value="2"></ACTION>
 			<ACTION location="home" type="smokeBomb" value="-1000"></ACTION>
 			<TYPE>Master</TYPE>
@@ -1302,10 +1303,10 @@
 			<RIG ArmRight="goblin" Body="goblin" Eye="blank" FootLeft="goblin" FootRight="goblin" Hat="blank" Head="goblin" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="goblin" UpperLeftArm="blank" eye_closed="blank" eye_wounded="blank">Caylish</RIG>
 			<AI>.55</AI>
 		</CARD>
-		<CARD g="0" c="0" w="0" name="Ozzle" edition="2.7" rarity="1" id="card0000153" group="wood">
-			<ACTION location="battle" type="foxPack" value="1"></ACTION>
+		<CARD g="0" c="0" w="0" name="Ozzle" edition="3.2" rarity="1" id="card0000153" group="wood">
+			<ACTION location="battle" type="attack" value="1"></ACTION>
 			<ACTION location="battle" type="frail" value="-1000"></ACTION>
-			<ACTION location="home" type="wood" value="1"></ACTION>
+			<ACTION location="home" type="recruit" value="1"></ACTION>
 			<TYPE>Fox</TYPE>
 			<TYPE>Wisp</TYPE>
 			<RIG ArmRight="blank" Body="blank" Eye="blank" FootLeft="blank" FootRight="blank" Hat="blank" Head="wisp05" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="blank" UpperLeftArm="blank" eye_closed="blank" eye_wounded="blank">Ozzle</RIG>
@@ -1370,9 +1371,9 @@
 			<RIG ArmRight="skeleton4" Body="avenger3" Eye="blank" FootLeft="knight2" FootRight="knight2" Hat="blank" Head="knight7" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="bandit3" UpperLeftArm="bandit" eye_closed="blank" eye_wounded="blank">Oberos</RIG>
 			<AI>.55</AI>
 		</CARD>
-		<CARD g="9" c="0" w="0" name="Marcellus" edition="2.8" rarity="3" id="card0000161" set="1">
+		<CARD g="9" c="0" w="0" name="Marcellus" edition="2.9" rarity="3" id="card0000161" set="1">
 			<ACTION location="battle" type="wound" value="1"></ACTION>
-			<ACTION location="battle" type="flourish" value="5"></ACTION>
+			<ACTION location="battle" type="flourish" value="6"></ACTION>
 			<ACTION location="home" type="greed" value="4"></ACTION>
 			<TYPE>Royal</TYPE>
 			<TYPE>Vanguard</TYPE>
@@ -1388,32 +1389,33 @@
 			<RIG ArmRight="eliteknightred" Body="eliteknightred" Eye="blank" FootLeft="eliteknightred" FootRight="eliteknightred" Hat="blank" Head="eliteknightred" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="eliteknightred" UpperLeftArm="eliteknightred" eye_closed="blank" eye_wounded="blank">Anton</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="3" c="0" w="0" name="Gerren" edition="2.8" rarity="1" id="card0000163" set="1">
+		<CARD g="3" c="0" w="0" name="Gerren" edition="2.9" rarity="1" id="card0000163" set="1">
 			<ACTION location="battle" type="siege" value="1"></ACTION>
 			<ACTION location="home" type="gold" value="2"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
 			<TYPE>Vanguard</TYPE>
 			<RIG ArmRight="eliteknightgreen" Body="eliteknightgreen" Eye="blank" FootLeft="eliteknightgreen" FootRight="eliteknightgreen" Hat="blank" Head="eliteknightgreen" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="eliteknightgreen" UpperLeftArm="eliteknightgreen" eye_closed="blank" eye_wounded="blank">Gerren</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="5" c="0" w="0" name="Raleigh" edition="2.8" rarity="2" id="card0000164" set="1">
+		<CARD g="5" c="0" w="0" name="Raleigh" edition="2.9" rarity="2" id="card0000164" set="1">
 			<ACTION location="battle" type="flourish" value="3"></ACTION>
-			<ACTION location="home" type="protect" value="6"></ACTION>
+			<ACTION location="home" type="protect" value="7"></ACTION>
 			<TYPE>Vanguard</TYPE>
 			<TYPE>Knight</TYPE>
 			<RIG ArmRight="eliteknightblue" Body="eliteknightblue" Eye="blank" FootLeft="eliteknightblue" FootRight="eliteknightblue" Hat="blank" Head="eliteknightblue" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="eliteknightblue" UpperLeftArm="eliteknightblue" eye_closed="blank" eye_wounded="blank">Raleigh</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="12" c="0" w="0" name="Barriston" edition="2.8" rarity="3" id="card0000165" set="1">
+		<CARD g="12" c="0" w="0" name="Barriston" edition="2.9" rarity="3" id="card0000165" set="1">
 			<ACTION location="battle" type="duoRandal" value="2"></ACTION>
 			<ACTION location="battle" type="knockout" value="1"></ACTION>
-			<ACTION location="home" type="greed" value="4"></ACTION>
+			<ACTION location="home" type="greed" value="5"></ACTION>
 			<ACTION location="home" type="defense" value="2"></ACTION>
 			<TYPE>Barbarian</TYPE>
 			<TYPE>Vanguard</TYPE>
 			<RIG ArmRight="heavyknight" Body="heavyknight" Eye="blank" FootLeft="heavyknight" FootRight="heavyknight" Hat="blank" Head="heavyknight" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="heavyknight" UpperLeftArm="heavyknight" eye_closed="blank" eye_wounded="blank">Barriston</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="6" c="0" w="0" name="Randal" edition="2.8" rarity="1" id="card0000166" set="1">
+		<CARD g="5" c="0" w="0" name="Randal" edition="2.9" rarity="1" id="card0000166" set="1">
 			<ACTION location="battle" type="flourish" value="4"></ACTION>
 			<ACTION location="home" type="recruit" value="4"></ACTION>
 			<TYPE>Mountain</TYPE>
@@ -1422,14 +1424,14 @@
 			<AI>.5</AI>
 		</CARD>
 		<CARD g="8" c="0" w="0" name="Covar" edition="2.8" rarity="3" id="card0000167" set="1">
-			<ACTION location="battle" type="siege" value="2"></ACTION>
+			<ACTION location="battle" type="siege" value="3"></ACTION>
 			<ACTION location="home" type="greed" value="2"></ACTION>
 			<ACTION location="home" type="atkSquire" value="5"></ACTION>
 			<TYPE>Prince</TYPE>
 			<RIG ArmRight="prince" Body="prince" Eye="blank" FootLeft="prince" FootRight="prince" Hat="blank" Head="prince" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="prince" UpperLeftArm="prince" eye_closed="blank" eye_wounded="blank">Covar</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="10" c="0" w="0" name="Tally" edition="2.8" rarity="4" id="card0000168" set="1">
+		<CARD g="9" c="0" w="0" name="Tally" edition="2.9" rarity="4" id="card0000168" set="1">
 			<ACTION location="battle" type="vanguard" value="2"></ACTION>
 			<ACTION location="battle" type="defense" value="1"></ACTION>
 			<ACTION location="home" type="charity" value="1"></ACTION>
@@ -1517,7 +1519,7 @@
 			<RIG ArmRight="vampireprince" Body="vampireprince" Eye="blank" FootLeft="vampireprince" FootRight="vampireprince" Hat="blank" Head="vampireprince" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="vampirelord" UpperLeftArm="vampireprince" eye_closed="blank" eye_wounded="blank">Anrick</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="0" c="8" w="0" name="Celina" edition="2.8" rarity="3" id="card0000178" set="1">
+		<CARD g="0" c="7" w="0" name="Celina" edition="2.9" rarity="3" id="card0000178" set="1">
 			<ACTION location="battle" type="drain" value="1"></ACTION>
 			<ACTION location="battle" type="zealot" value="2"></ACTION>
 			<ACTION location="home" type="bloodRage" value="1"></ACTION>
@@ -1553,18 +1555,19 @@
 			<RIG ArmRight="blank" Body="babydragonblue" Eye="blank" FootLeft="blank" FootRight="blank" Hat="blank" Head="babydragonblue" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="blank" UpperLeftArm="blank" eye_closed="blank" eye_wounded="blank">Finch</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="0" c="0" w="4" name="Kemp" edition="2.8" rarity="3" id="card0000182" set="1">
+		<CARD g="0" c="0" w="4" name="Kemp" edition="3.1" rarity="3" id="card0000182" set="1">
 			<ACTION location="battle" type="flare" value="2"></ACTION>
 			<ACTION location="home" type="wood" value="2"></ACTION>
+			<ACTION location="home" type="renegade" value="0"></ACTION>
 			<TYPE>Royal</TYPE>
 			<TYPE>Dragon</TYPE>
 			<TYPE>Whelp</TYPE>
 			<RIG ArmRight="blank" Body="babydragongreen" Eye="blank" FootLeft="blank" FootRight="blank" Hat="blank" Head="babydragongreen" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="blank" UpperLeftArm="blank" eye_closed="blank" eye_wounded="blank">Kemp</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="0" c="0" w="6" name="Marsh" edition="2.8" rarity="2" id="card0000183" set="1">
-			<ACTION location="battle" type="attack" value="3"></ACTION>
-			<ACTION location="battle" type="siege" value="1"></ACTION>
+		<CARD g="0" c="0" w="6" name="Marsh" edition="3.2" rarity="2" id="card0000183" set="1">
+			<ACTION location="battle" type="attack" value="2"></ACTION>
+			<ACTION location="battle" type="siege" value="2"></ACTION>
 			<ACTION location="home" type="wood" value="3"></ACTION>
 			<ACTION location="home" type="guardian" value="1"></ACTION>
 			<TYPE>Totem</TYPE>
@@ -1591,15 +1594,15 @@
 			<RIG ArmRight="blank" Body="wisp07" Eye="blank" FootLeft="blank" FootRight="blank" Hat="blank" Head="wisp11" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="blank" UpperLeftArm="blank" eye_closed="blank" eye_wounded="blank">Jiast</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="0" c="0" w="9" name="Lynaia" edition="2.8" rarity="3" id="card0000186" set="1">
+		<CARD g="0" c="0" w="10" name="Lynaia" edition="2.9" rarity="3" id="card0000186" set="1">
 			<ACTION location="battle" type="wood" value="5"></ACTION>
-			<ACTION location="battle" type="dormant" value="-1000"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
 			<ACTION location="home" type="matriarch" value="1"></ACTION>
 			<TYPE>Dryad</TYPE>
 			<RIG ArmRight="dryad" Body="dryad" Eye="blank" FootLeft="dryad" FootRight="dryad" Hat="blank" Head="dryad" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="dryad" UpperLeftArm="dryad" eye_closed="blank" eye_wounded="blank">Lynaia</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="0" c="0" w="17" name="Ifrim" edition="2.8" rarity="3" id="card0000187" set="1">
+		<CARD g="0" c="0" w="16" name="Ifrim" edition="3.2" rarity="3" id="card0000187" set="1">
 			<ACTION location="battle" type="dragonQueen" value="3"></ACTION>
 			<ACTION location="battle" type="dormant" value="-1000"></ACTION>
 			<ACTION location="home" type="matriarch" value="2"></ACTION>
@@ -1618,20 +1621,20 @@
 			<RIG ArmRight="reddragon" Body="reddragon" Eye="blank" FootLeft="reddragon" FootRight="reddragon" Hat="blank" Head="reddragon" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="reddragon" UpperLeftArm="reddragon" eye_closed="blank" eye_wounded="blank">Adrog</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="0" c="0" w="7" name="Abbie" edition="2.8" rarity="1" id="card0000189" set="1">
+		<CARD g="0" c="0" w="6" name="Abbie" edition="3.2" rarity="1" id="card0000189" set="1">
 			<ACTION location="battle" type="wound" value="1"></ACTION>
-			<ACTION location="battle" type="defense" value="5"></ACTION>
+			<ACTION location="battle" type="defense" value="2"></ACTION>
 			<ACTION location="home" type="wood" value="3"></ACTION>
-			<ACTION location="home" type="transform" value="7"></ACTION>
+			<ACTION location="home" type="transform" value="6"></ACTION>
 			<TYPE>Fox</TYPE>
 			<TYPE>Warden</TYPE>
 			<RIG ArmRight="warden2" Body="warden2" Eye="blank" FootLeft="warden2" FootRight="warden2" Hat="blank" Head="warden2" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="warden2" UpperLeftArm="warden2" eye_closed="blank" eye_wounded="blank">Abbie</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="0" c="0" w="7" name="Powell" edition="2.8" rarity="1" id="card0000190" set="1">
+		<CARD g="0" c="0" w="7" name="Powell" edition="3.2" rarity="1" id="card0000190" set="1">
 			<ACTION location="battle" type="dogPack" value="1"></ACTION>
 			<ACTION location="battle" type="wood" value="3"></ACTION>
-			<ACTION location="home" type="defense" value="6"></ACTION>
+			<ACTION location="home" type="defense" value="5"></ACTION>
 			<ACTION location="home" type="recruit" value="3"></ACTION>
 			<TYPE>Dog</TYPE>
 			<TYPE>Warden</TYPE>
@@ -1647,7 +1650,7 @@
 			<RIG ArmRight="blackdragon" Body="blackdragon" Eye="blank" FootLeft="blackdragon" FootRight="blackdragon" Hat="blank" Head="blackdragon" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="blackdragon" UpperLeftArm="blackdragon" eye_closed="blank" eye_wounded="blank">Melvar</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="2" c="0" w="2" name="Fedor" edition="2.8" rarity="2" id="card0000192" set="1">
+		<CARD g="2" c="0" w="1" name="Fedor" edition="3.3" rarity="2" id="card0000192" set="1">
 			<ACTION location="battle" type="attack" value="3"></ACTION>
 			<ACTION location="battle" type="guardian" value="1"></ACTION>
 			<ACTION location="home" type="protect" value="2"></ACTION>
@@ -1656,7 +1659,7 @@
 			<RIG ArmRight="engineer" Body="engineer" Eye="blank" FootLeft="engineer" FootRight="engineer" Hat="blank" Head="engineer" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="engineer" UpperLeftArm="engineer" eye_closed="blank" eye_wounded="blank">Fedor</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="3" c="0" w="3" name="Goose" edition="2.8" rarity="2" id="card0000193" set="1">
+		<CARD g="3" c="0" w="2" name="Goose" edition="3.3" rarity="2" id="card0000193" set="1">
 			<ACTION location="battle" type="flourish" value="2"></ACTION>
 			<ACTION location="battle" type="toxic" value="7"></ACTION>
 			<ACTION location="home" type="charity" value="2"></ACTION>
@@ -1666,7 +1669,7 @@
 			<RIG ArmRight="frogcaptain" Body="frogcaptain" Eye="blank" FootLeft="frogcaptain" FootRight="frogcaptain" Hat="blank" Head="frogcaptain" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="frogcaptain" UpperLeftArm="frogcaptain" eye_closed="blank" eye_wounded="blank">Goose</RIG>
 			<AI>.5</AI>
 		</CARD>
-		<CARD g="4" c="0" w="4" name="Brodie" edition="2.8" rarity="3" id="card0000194" set="1">
+		<CARD g="3" c="0" w="4" name="Brodie" edition="3.3" rarity="3" id="card0000194" set="1">
 			<ACTION location="battle" type="flare" value="4"></ACTION>
 			<ACTION location="battle" type="attack" value="4"></ACTION>
 			<ACTION location="home" type="fighterKing" value="2"></ACTION>
@@ -1722,6 +1725,59 @@
 			<TYPE>Wisp</TYPE>
 			<RIG ArmRight="blank" Body="wisp04" Eye="blank" FootLeft="blank" FootRight="blank" Hat="blank" Head="wisp09" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="blank" UpperLeftArm="blank" eye_closed="blank" eye_wounded="blank">Mag</RIG>
 			<AI>.4</AI>
+		</CARD>
+		<CARD g="4" c="0" w="0" name="Midras" edition="3.0" rarity="1" id="card0000200" set="1">
+			<ACTION location="battle" type="attack" value="2"></ACTION>
+			<ACTION location="battle" type="siege" value="1"></ACTION>
+			<ACTION location="home" type="gold" value="2"></ACTION>
+			<ACTION location="home" type="defense" value="1"></ACTION>
+			<TYPE>Troll</TYPE>	
+			<RIG ArmRight="thief" Body="troll" Eye="blank" FootLeft="thief" FootRight="thief" Hat="blank" Head="troll5" ItemDefense="defender" ItemOffense="hunter" LowerLeftArm="femalefighter" UpperLeftArm="thief" eye_closed="blank" eye_wounded="blank">Midras</RIG>
+			<AI>.7</AI>
+		</CARD>
+		<CARD g="3" c="0" w="1" name="Jeremiah" edition="3.0" rarity="2" id="card0000201" set="1">
+			<ACTION location="battle" type="gold" value="1"></ACTION>
+			<ACTION location="battle" type="rampage" value="2"></ACTION>
+			<ACTION location="home" type="guardian" value="2"></ACTION>
+			<ACTION location="home" type="arrow" value="1"></ACTION>
+			<TYPE>Mountain</TYPE>	
+			<TYPE>Raider</TYPE>	
+			<RIG ArmRight="bandit5" Body="bandit5" Eye="blank" FootLeft="bandit5" FootRight="bandit5" Hat="blank" Head="bandit6" ItemDefense="archer" ItemOffense="blank" LowerLeftArm="bandit5" UpperLeftArm="bandit5" eye_closed="blank" eye_wounded="blank">Jeremiah</RIG>
+			<AI>.4</AI>
+		</CARD>
+		<CARD g="9" c="0" w="0" name="Laginn" edition="3.0" rarity="3" id="card0000202" set="1">
+			<ACTION location="battle" type="attack" value="3"></ACTION>
+			<ACTION location="battle" type="stoneRam" value="1"></ACTION>
+			<ACTION location="home" type="defense" value="2"></ACTION>
+			<ACTION location="home" type="stoneWall" value="2"></ACTION>
+			<TYPE>Stone</TYPE>	
+			<TYPE>Lord</TYPE>	
+			<RIG ArmRight="blank" Body="giant" Eye="blank" FootLeft="king" FootRight="king" Hat="blank" Head="mountainking" ItemDefense="knight3" ItemOffense="knight3" LowerLeftArm="giant" UpperLeftArm="giant" eye_closed="blank" eye_wounded="blank">Laginn</RIG>
+			<AI>.6</AI>
+		</CARD>
+		<CARD g="5" c="0" w="0" name="Vago" edition="3.0" rarity="2" id="card0000203" set="1">
+			<ACTION location="battle" type="attack" value="2"></ACTION>
+			<ACTION location="battle" type="tribalHex" value="5"></ACTION>
+			<ACTION location="home" type="tribalDues" value="1"></ACTION>
+			<TYPE>Troll</TYPE>	
+			<TYPE>Shaman</TYPE>	
+			<RIG ArmRight="troll" Body="squire2" Eye="blank" FootLeft="troll" FootRight="troll" Hat="blank" Head="troll6" ItemDefense="cleaver" ItemOffense="cleaver" LowerLeftArm="troll" UpperLeftArm="troll2">Vago</RIG>
+			<AI>.5</AI>
+		</CARD>
+		<CARD g="5" c="0" w="0" name="Pency" edition="3.0" rarity="1" id="card0000204" set="1">
+			<ACTION location="battle" type="defense" value="2"></ACTION>
+			<ACTION location="battle" type="frail" value="-1000"></ACTION>
+			<ACTION location="home" type="tax" value="1"></ACTION>
+			<TYPE>Bureaucrat</TYPE>
+			<RIG ArmRight="veteran" Body="veteran" Eye="blank" FootLeft="veteran" FootRight="veteran" Hat="blank" Head="bureaucrat" ItemDefense="blank" ItemOffense="blank" LowerLeftArm="blank" UpperLeftArm="bureaucrat" eye_closed="blank" eye_wounded="blank">Pency</RIG>
+			<AI>.2</AI>
+		</CARD>
+		<CARD g="4" c="0" w="0" name="Flip" edition="3.0" rarity="1" id="card0000205" set="1">
+			<ACTION location="battle" type="gamble" value="2"></ACTION>
+			<ACTION location="home" type="greed" value="3"></ACTION>
+			<TYPE>Scoundrel</TYPE>
+			<RIG ArmRight="bandit3" Body="bandit3" Eye="blank" FootLeft="bandit3" FootRight="bandit3" Hat="blank" Head="scoundrel" ItemDefense="avenger" ItemOffense="avenger" LowerLeftArm="bandit3" UpperLeftArm="bandit3" eye_closed="blank" eye_wounded="blank">Flip</RIG>
+			<AI>.2</AI>
 		</CARD>
 	</CARDLIST>
 	<CITYLIST>
