@@ -1,0 +1,19 @@
+{
+  "name": "HighgroundsAssets",
+  "version": "1.26.0",
+  "description": "Highgrounds game assets",
+  "main": "build/highgrounds.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/highgrounds/HighgroundsAssets.git"
+  },
+  "author": "",
+  "license": "https://github.com/highgrounds/HighgroundsAssets/blob/master/license.txt",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "jsdom": "=0.7.0"
+  }
+}

@@ -1,0 +1,5693 @@
+{
+    "units": [
+        {
+            "id": "card0000000",
+            "name": "Groff",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Hunter"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000001",
+            "name": "Kaite",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Recruiter"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000002",
+            "name": "Tarim",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Vanguard",
+                "Knight"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000003",
+            "name": "Ramm",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Knight"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000004",
+            "name": "Domino",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Thief"
+            ],
+            "battle": [
+                {
+                    "ability": "wound",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000005",
+            "name": "Abban",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Soldier",
+                "Veteran"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000006",
+            "name": "Epherius",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Paladin"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000007",
+            "name": "Jonas",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Farmer"
+            ],
+            "battle": [
+                {
+                    "ability": "wound",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000008",
+            "name": "Hector",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "General"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000009",
+            "name": "Payne",
+            "edition": "1",
+            "rarity": "rare",
+            "types": [
+                "Troll",
+                "Barbarian"
+            ],
+            "battle": [
+                {
+                    "ability": "wound",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000010",
+            "name": "Jolien",
+            "edition": "1.6",
+            "rarity": "common",
+            "types": [
+                "Healer",
+                "Fighter"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 7
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000011",
+            "name": "Tydus",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Soldier",
+                "Warlord"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 6
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000012",
+            "name": "Horus",
+            "edition": "1",
+            "rarity": "rare",
+            "types": [
+                "Farmer",
+                "Fighter"
+            ],
+            "battle": [
+                {
+                    "ability": "farmerKing",
+                    "amount": 1
+                },
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 4
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000013",
+            "name": "Grom",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Troll"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 3
+                },
+                {
+                    "ability": "defense",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 2
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 7
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000014",
+            "name": "Rune",
+            "edition": "1",
+            "rarity": "rare",
+            "types": [
+                "Thief",
+                "Assassin"
+            ],
+            "battle": [
+                {
+                    "ability": "wound",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 4
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 8
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000015",
+            "name": "Spike",
+            "edition": "1.6",
+            "rarity": "uncommon",
+            "types": [
+                "Assassin",
+                "Hunter"
+            ],
+            "battle": [
+                {
+                    "ability": "wound",
+                    "amount": 4
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 14
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 7
+                }
+            ]
+        },
+        {
+            "id": "card0000016",
+            "name": "Harden",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Troll"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000017",
+            "name": "Rosie",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Cleric"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000018",
+            "name": "Bran",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Farmer",
+                "Hunter"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 3
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                },
+                {
+                    "ability": "gold",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000019",
+            "name": "Durant",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Farmer",
+                "Archer"
+            ],
+            "battle": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000020",
+            "name": "Tamurum",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Spirit"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000021",
+            "name": "Rorth",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Spirit",
+                "Farmer"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000022",
+            "name": "Rahhn",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Harvester"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000023",
+            "name": "Yuolen",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Skeleton"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000024",
+            "name": "Ino",
+            "edition": "2.4",
+            "rarity": "common",
+            "types": [
+                "Skeleton"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000025",
+            "name": "Drake",
+            "edition": "1.9",
+            "rarity": "rare",
+            "types": [
+                "Skeleton",
+                "Archer"
+            ],
+            "battle": [
+                {
+                    "ability": "arrow",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 1
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 7
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000026",
+            "name": "Craun",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Skeleton",
+                "Soldier"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000027",
+            "name": "Faiser",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Minotaur",
+                "Shade"
+            ],
+            "battle": [
+                {
+                    "ability": "rampage",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000028",
+            "name": "Jion",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Shade",
+                "Wizard"
+            ],
+            "battle": [
+                {
+                    "ability": "bolt",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000029",
+            "name": "Rainer",
+            "edition": "2.2",
+            "rarity": "common",
+            "types": [
+                "Anubis"
+            ],
+            "battle": [
+                {
+                    "ability": "duoRaeus",
+                    "amount": 3
+                },
+                {
+                    "ability": "attack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000030",
+            "name": "Raeus",
+            "edition": "2.2",
+            "rarity": "rare",
+            "types": [
+                "Anubis"
+            ],
+            "battle": [
+                {
+                    "ability": "duoRainer",
+                    "amount": 3
+                },
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000031",
+            "name": "Rauny",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Healer",
+                "Protector"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000032",
+            "name": "Yaran",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Wizard"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 5
+                }
+            ],
+            "home": [
+                {
+                    "ability": "fireball",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000033",
+            "name": "Branan",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Wizard"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 5
+                }
+            ],
+            "home": [
+                {
+                    "ability": "fireball",
+                    "amount": 2
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000034",
+            "name": "Tempest",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Wizard",
+                "Thief"
+            ],
+            "battle": [
+                {
+                    "ability": "bolt",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000035",
+            "name": "Ashara",
+            "edition": "1",
+            "rarity": "rare",
+            "types": [
+                "Lich",
+                "Queen"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 5
+                }
+            ],
+            "home": [
+                {
+                    "ability": "skelKing",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000036",
+            "name": "Shadebeast",
+            "edition": "1",
+            "rarity": "rare",
+            "types": [
+                "Shade",
+                "Monster"
+            ],
+            "battle": [
+                {
+                    "ability": "deathBolt",
+                    "amount": -9999
+                },
+                {
+                    "ability": "burnout",
+                    "amount": 14
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 5
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 9
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ]
+        },
+        {
+            "id": "card0000037",
+            "name": "Jacen",
+            "edition": "2.1",
+            "rarity": "ultra-rare",
+            "types": [
+                "Wizard",
+                "General"
+            ],
+            "battle": [
+                {
+                    "ability": "bolt",
+                    "amount": 2
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 7
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 11
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 6
+                }
+            ]
+        },
+        {
+            "id": "card0000038",
+            "name": "Willem",
+            "edition": "1.6",
+            "rarity": "common",
+            "types": [
+                "Royal",
+                "Squire"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "atkSquire",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000039",
+            "name": "Rucke",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Barbarian"
+            ],
+            "battle": [
+                {
+                    "ability": "rampage",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000040",
+            "name": "Stag",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Barbarian",
+                "Archer"
+            ],
+            "battle": [
+                {
+                    "ability": "rampage",
+                    "amount": 4
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                },
+                {
+                    "ability": "gold",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000041",
+            "name": "Crusher",
+            "edition": "1",
+            "rarity": "ultra-rare",
+            "types": [
+                "Barbarian",
+                "Warlord"
+            ],
+            "battle": [
+                {
+                    "ability": "knockout",
+                    "amount": 1
+                },
+                {
+                    "ability": "rampage",
+                    "amount": 5
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 5
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 9
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 5
+                }
+            ]
+        },
+        {
+            "id": "card0000042",
+            "name": "Scrapper",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Barbarian"
+            ],
+            "battle": [
+                {
+                    "ability": "knockout",
+                    "amount": 1
+                },
+                {
+                    "ability": "attack",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000043",
+            "name": "Driaga",
+            "edition": "2.1",
+            "rarity": "rare",
+            "types": [
+                "Barbarian",
+                "Queen"
+            ],
+            "battle": [
+                {
+                    "ability": "barbBerserk",
+                    "amount": -9999
+                },
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "barbKing",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000044",
+            "name": "Bane",
+            "edition": "1.6",
+            "rarity": "common",
+            "types": [
+                "Barbarian",
+                "Slayer"
+            ],
+            "battle": [
+                {
+                    "ability": "knockout",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000045",
+            "name": "Varo",
+            "edition": "2.5",
+            "rarity": "uncommon",
+            "types": [
+                "Golem"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 9
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 10
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ]
+        },
+        {
+            "id": "card0000046",
+            "name": "Wren",
+            "edition": "1.4",
+            "rarity": "rare",
+            "types": [
+                "Mariner",
+                "Recruiter"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                },
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 6
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000047",
+            "name": "Andor",
+            "edition": "1.6",
+            "rarity": "uncommon",
+            "types": [
+                "Squire"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "atkSquire",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000048",
+            "name": "Gage",
+            "edition": "1.9",
+            "rarity": "common",
+            "types": [
+                "Raider"
+            ],
+            "battle": [
+                {
+                    "ability": "steal",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                },
+                {
+                    "ability": "gold",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                },
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                },
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000049",
+            "name": "Eder",
+            "edition": "1",
+            "rarity": "uncommon",
+            "types": [
+                "Raider",
+                "Archer"
+            ],
+            "battle": [
+                {
+                    "ability": "steal",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000050",
+            "name": "Berna",
+            "edition": "1.9",
+            "rarity": "uncommon",
+            "types": [
+                "Raider",
+                "Harvester"
+            ],
+            "battle": [
+                {
+                    "ability": "steal",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000051",
+            "name": "Faulk",
+            "edition": "1.9",
+            "rarity": "ultra-rare",
+            "types": [
+                "Salamander",
+                "Raider"
+            ],
+            "battle": [
+                {
+                    "ability": "steal",
+                    "amount": 3
+                },
+                {
+                    "ability": "attack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 3
+                },
+                {
+                    "ability": "crystal",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 10
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ]
+        },
+        {
+            "id": "card0000052",
+            "name": "Cook",
+            "edition": "2.1",
+            "rarity": "ultra-rare",
+            "types": [
+                "Paladin"
+            ],
+            "battle": [
+                {
+                    "ability": "paladin",
+                    "amount": 2
+                },
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 2
+                },
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 8
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000053",
+            "name": "Yuo",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Wisp"
+            ],
+            "battle": [
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000054",
+            "name": "Loom",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Wisp"
+            ],
+            "battle": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000055",
+            "name": "Oakley",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Giant"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 8
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 9
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 5
+                }
+            ]
+        },
+        {
+            "id": "card0000056",
+            "name": "Pitt",
+            "edition": "1",
+            "rarity": "common",
+            "types": [
+                "Bodyguard"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000057",
+            "name": "Alson",
+            "edition": "2.5",
+            "rarity": "uncommon",
+            "types": [
+                "Assassin"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                },
+                {
+                    "ability": "wound",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000058",
+            "name": "Lans",
+            "edition": "1.2",
+            "rarity": "rare",
+            "types": [
+                "Assassin",
+                "Archer"
+            ],
+            "battle": [
+                {
+                    "ability": "wound",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000059",
+            "name": "Epoch",
+            "edition": "1.9",
+            "rarity": "ultra-rare",
+            "types": [
+                "Troll",
+                "Chieftain"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 7
+                },
+                {
+                    "ability": "wound",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 4
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 6
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 10
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 5
+                }
+            ]
+        },
+        {
+            "id": "card0000060",
+            "name": "Harum",
+            "edition": "1.2",
+            "rarity": "common",
+            "types": [
+                "Barbarian"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000061",
+            "name": "Hale",
+            "edition": "1.2",
+            "rarity": "common",
+            "types": [
+                "Mountain",
+                "Knight"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 3
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000062",
+            "name": "Rhyne",
+            "edition": "1.2",
+            "rarity": "uncommon",
+            "types": [
+                "Shade",
+                "Skeleton"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 2
+                },
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000063",
+            "name": "Lyss",
+            "edition": "2.5",
+            "rarity": "common",
+            "types": [
+                "Reaper",
+                "Hunter"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000064",
+            "name": "Deimor",
+            "edition": "1.2",
+            "rarity": "rare",
+            "types": [
+                "Skeleton",
+                "Knight"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 3
+                },
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "fireball",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000065",
+            "name": "Pomora",
+            "edition": "1.2",
+            "rarity": "rare",
+            "types": [
+                "Minotaur",
+                "Raider"
+            ],
+            "battle": [
+                {
+                    "ability": "steal",
+                    "amount": 1
+                },
+                {
+                    "ability": "rampage",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000066",
+            "name": "Striker",
+            "edition": "1.2",
+            "rarity": "common",
+            "types": [
+                "Wizard"
+            ],
+            "battle": [
+                {
+                    "ability": "bolt",
+                    "amount": 1
+                },
+                {
+                    "ability": "burnout",
+                    "amount": 5
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000067",
+            "name": "Ghast",
+            "edition": "2.5",
+            "rarity": "common",
+            "types": [
+                "Minion"
+            ],
+            "battle": [
+                {
+                    "ability": "rampage",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "protect",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000068",
+            "name": "Molo",
+            "edition": "2.5",
+            "rarity": "common",
+            "types": [
+                "Soldier",
+                "Golem"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 6
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000069",
+            "name": "Lyon",
+            "edition": "1.4",
+            "rarity": "uncommon",
+            "types": [
+                "Druid"
+            ],
+            "battle": [
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000070",
+            "name": "Hiro",
+            "edition": "1.4",
+            "rarity": "uncommon",
+            "types": [
+                "Druid"
+            ],
+            "battle": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000071",
+            "name": "Talas",
+            "edition": "1.4",
+            "rarity": "common",
+            "types": [
+                "Ancient",
+                "Spirit"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000072",
+            "name": "Johnn",
+            "edition": "1.4",
+            "rarity": "common",
+            "types": [
+                "Farmer"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000073",
+            "name": "Atrophus",
+            "edition": "1.4",
+            "rarity": "common",
+            "types": [
+                "Minion",
+                "Soldier"
+            ],
+            "battle": [
+                {
+                    "ability": "rampage",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "protect",
+                    "amount": 2
+                },
+                {
+                    "ability": "windfall#1",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000074",
+            "name": "Ray",
+            "edition": "2.5",
+            "rarity": "uncommon",
+            "types": [
+                "Rogue"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                },
+                {
+                    "ability": "wound",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000075",
+            "name": "Yorn",
+            "edition": "1.4",
+            "rarity": "uncommon",
+            "types": [
+                "Barbarian",
+                "Farmer"
+            ],
+            "battle": [
+                {
+                    "ability": "knockout",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000076",
+            "name": "Fiss",
+            "edition": "1.5",
+            "rarity": "common",
+            "types": [
+                "Salamander",
+                "Avenger"
+            ],
+            "battle": [
+                {
+                    "ability": "revenge",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000077",
+            "name": "Bin",
+            "edition": "1.7",
+            "rarity": "common",
+            "types": [
+                "Acolyte"
+            ],
+            "battle": [
+                {
+                    "ability": "zealot",
+                    "amount": 1
+                },
+                {
+                    "ability": "attack",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                },
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000078",
+            "name": "Gernt",
+            "edition": "1.5",
+            "rarity": "common",
+            "types": [
+                "Apprentice"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                },
+                {
+                    "ability": "windfall#0",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000079",
+            "name": "Marshall",
+            "edition": "1.5",
+            "rarity": "common",
+            "types": [
+                "Mercenary"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                },
+                {
+                    "ability": "renegade",
+                    "amount": 0
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "id": "card0000080",
+            "name": "Syl",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Kingmaker"
+            ],
+            "battle": [
+                {
+                    "ability": "honor",
+                    "amount": 8
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "windfall#0",
+                    "amount": 8
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 8
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000081",
+            "name": "Zender",
+            "edition": "1.5",
+            "rarity": "common",
+            "types": [
+                "Spirit",
+                "Vessel"
+            ],
+            "battle": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                },
+                {
+                    "ability": "windfall#1",
+                    "amount": 5
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000082",
+            "name": "Ink",
+            "edition": "1.5",
+            "rarity": "rare",
+            "types": [
+                "Mercenary",
+                "Wizard"
+            ],
+            "battle": [
+                {
+                    "ability": "bolt",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                },
+                {
+                    "ability": "renegade",
+                    "amount": 0
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 9
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "id": "card0000083",
+            "name": "Rile",
+            "edition": "1.5",
+            "rarity": "uncommon",
+            "types": [
+                "Vanguard",
+                "Mercenary"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 7
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                },
+                {
+                    "ability": "renegade",
+                    "amount": 0
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "id": "card0000084",
+            "name": "Virt",
+            "edition": "1.6",
+            "rarity": "ultra-rare",
+            "types": [
+                "Healer",
+                "Avenger"
+            ],
+            "battle": [
+                {
+                    "ability": "revenge",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 3
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 8
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000085",
+            "name": "Sliver",
+            "edition": "2.4",
+            "rarity": "rare",
+            "types": [
+                "Avenger"
+            ],
+            "battle": [
+                {
+                    "ability": "revenge",
+                    "amount": 5
+                },
+                {
+                    "ability": "burnout",
+                    "amount": 6
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 7
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000086",
+            "name": "Vince",
+            "edition": "1.5",
+            "rarity": "common",
+            "types": [
+                "Miner"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000087",
+            "name": "Lapp",
+            "edition": "1.5",
+            "rarity": "uncommon",
+            "types": [
+                "Mountain",
+                "Hunter"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000088",
+            "name": "Cliff",
+            "edition": "1.5",
+            "rarity": "uncommon",
+            "types": [
+                "Mountain",
+                "Giant"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 10
+                },
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "protect",
+                    "amount": 8
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 14
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 7
+                }
+            ]
+        },
+        {
+            "id": "card0000089",
+            "name": "Lare",
+            "edition": "1.7",
+            "rarity": "uncommon",
+            "types": [
+                "Acolyte",
+                "Enforcer"
+            ],
+            "battle": [
+                {
+                    "ability": "zealot",
+                    "amount": 2
+                },
+                {
+                    "ability": "attack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 2
+                },
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000090",
+            "name": "Arthur",
+            "edition": "2.1",
+            "rarity": "rare",
+            "types": [
+                "King"
+            ],
+            "battle": [
+                {
+                    "ability": "honor",
+                    "amount": 12
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "knightKing",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 15
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 8
+                }
+            ]
+        },
+        {
+            "id": "card0000091",
+            "name": "Morgart",
+            "edition": "1.6",
+            "rarity": "common",
+            "types": [
+                "Pikeman"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 2
+                },
+                {
+                    "ability": "windfall#0",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000092",
+            "name": "Hagel",
+            "edition": "1.6",
+            "rarity": "uncommon",
+            "types": [
+                "Crystal",
+                "Miner"
+            ],
+            "battle": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000093",
+            "name": "Herold",
+            "edition": "1.6",
+            "rarity": "uncommon",
+            "types": [
+                "Veteran",
+                "Squire"
+            ],
+            "battle": [
+                {
+                    "ability": "honor",
+                    "amount": 3
+                },
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "atkSquire",
+                    "amount": 3
+                },
+                {
+                    "ability": "protect",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000094",
+            "name": "Kobi",
+            "edition": "1.6",
+            "rarity": "common",
+            "types": [
+                "Vanguard",
+                "Knight"
+            ],
+            "battle": [
+                {
+                    "ability": "honor",
+                    "amount": 8
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 2
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 7
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000095",
+            "name": "Evelyne",
+            "edition": "1.6",
+            "rarity": "uncommon",
+            "types": [
+                "Royal",
+                "Healer"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 2
+                },
+                {
+                    "ability": "healing",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000096",
+            "name": "Mana",
+            "edition": "1.7",
+            "rarity": "common",
+            "types": [
+                "Veteran",
+                "Druid"
+            ],
+            "battle": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000097",
+            "name": "Ruel",
+            "edition": "1.7",
+            "rarity": "uncommon",
+            "types": [
+                "Harvester",
+                "Soldier"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 5
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                },
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000098",
+            "name": "Ekin",
+            "edition": "1.9",
+            "rarity": "common",
+            "types": [
+                "Wizard",
+                "Apprentice"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "fireball",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000099",
+            "name": "Jade",
+            "edition": "1.7",
+            "rarity": "rare",
+            "types": [
+                "Acolyte",
+                "Fighter"
+            ],
+            "battle": [
+                {
+                    "ability": "zealot",
+                    "amount": 3
+                },
+                {
+                    "ability": "attack",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 1
+                },
+                {
+                    "ability": "crystal",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 9
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 5
+                }
+            ]
+        },
+        {
+            "id": "card0000100",
+            "name": "Woaleh",
+            "edition": "1.8",
+            "rarity": "ultra-rare",
+            "types": [
+                "Spirit",
+                "Protector"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 6
+                },
+                {
+                    "ability": "crystal",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 3
+                },
+                {
+                    "ability": "crystal",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000101",
+            "name": "Pep",
+            "edition": "1.8",
+            "rarity": "common",
+            "types": [
+                "Recruiter"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000102",
+            "name": "Jimein",
+            "edition": "1.8",
+            "rarity": "uncommon",
+            "types": [
+                "Ancient",
+                "Skeleton"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 12
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 14
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 7
+                }
+            ]
+        },
+        {
+            "id": "card0000103",
+            "name": "Illian",
+            "edition": "1.8",
+            "rarity": "uncommon",
+            "types": [
+                "Rogue",
+                "Soldier"
+            ],
+            "battle": [
+                {
+                    "ability": "honor",
+                    "amount": 2
+                },
+                {
+                    "ability": "wound",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "duoTydus",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 7
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000104",
+            "name": "Rohk",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Herald"
+            ],
+            "battle": [
+                {
+                    "ability": "wood",
+                    "amount": 1
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "transform",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000105",
+            "name": "Ob",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Root",
+                "Harvester"
+            ],
+            "battle": [
+                {
+                    "ability": "wood",
+                    "amount": 1
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 1
+                },
+                {
+                    "ability": "transform",
+                    "amount": 1
+                }
+            ],
+            "buy": [],
+            "sell": []
+        },
+        {
+            "id": "card0000106",
+            "name": "Kil",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Healer"
+            ],
+            "battle": [
+                {
+                    "ability": "wood",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 1
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000107",
+            "name": "Kren",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Dog",
+                "Protector"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 2
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "windfall#2",
+                    "amount": 8
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 8
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000108",
+            "name": "Ench",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Dog"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000109",
+            "name": "Teak",
+            "edition": "2.0",
+            "rarity": "rare",
+            "types": [
+                "Thorn",
+                "Fighter"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 7
+                },
+                {
+                    "ability": "burnout",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000110",
+            "name": "Blight",
+            "edition": "2.5",
+            "rarity": "uncommon",
+            "types": [
+                "Ancient",
+                "Thorn"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 14
+                },
+                {
+                    "ability": "wound",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 5
+                },
+                {
+                    "ability": "fireball",
+                    "amount": 5
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 20
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 10
+                }
+            ]
+        },
+        {
+            "id": "card0000111",
+            "name": "Era",
+            "edition": "2.0",
+            "rarity": "rare",
+            "types": [
+                "Ancient",
+                "Healer"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 14
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 2
+                },
+                {
+                    "ability": "healing",
+                    "amount": 6
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 15
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 8
+                }
+            ]
+        },
+        {
+            "id": "card0000112",
+            "name": "Squint",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Fox",
+                "Thief"
+            ],
+            "battle": [
+                {
+                    "ability": "wound",
+                    "amount": 1
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000113",
+            "name": "Pyras",
+            "edition": "2.4",
+            "rarity": "rare",
+            "types": [
+                "Fox",
+                "Herald"
+            ],
+            "battle": [
+                {
+                    "ability": "foxPack",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 1
+                },
+                {
+                    "ability": "transform",
+                    "amount": 10
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000114",
+            "name": "Tik",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Fox",
+                "Assassin"
+            ],
+            "battle": [
+                {
+                    "ability": "foxPack",
+                    "amount": 1
+                },
+                {
+                    "ability": "wound",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000115",
+            "name": "Loup",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Wolf",
+                "Hunter"
+            ],
+            "battle": [
+                {
+                    "ability": "wolfPack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000116",
+            "name": "Slog",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Dog"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000117",
+            "name": "Gumil",
+            "edition": "2.1",
+            "rarity": "common",
+            "types": [
+                "Dog",
+                "Soldier"
+            ],
+            "battle": [
+                {
+                    "ability": "dogPack",
+                    "amount": 2
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000118",
+            "name": "Myter",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Totem",
+                "Soldier"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 5
+                },
+                {
+                    "ability": "dormant",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 1
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000119",
+            "name": "Reck",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Totem",
+                "Farmer"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 4
+                },
+                {
+                    "ability": "dormant",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000120",
+            "name": "Wail",
+            "edition": "2.0",
+            "rarity": "rare",
+            "types": [
+                "Wolf",
+                "Warlord"
+            ],
+            "battle": [
+                {
+                    "ability": "wolfPack",
+                    "amount": 7
+                }
+            ],
+            "home": [
+                {
+                    "ability": "recruit",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 18
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 9
+                }
+            ]
+        },
+        {
+            "id": "card0000121",
+            "name": "Roko",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Dog",
+                "Healer"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "healing",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000122",
+            "name": "Diug",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Totem"
+            ],
+            "battle": [
+                {
+                    "ability": "wood",
+                    "amount": 2
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 1
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000123",
+            "name": "Doken",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Archer",
+                "Monk"
+            ],
+            "battle": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                },
+                {
+                    "ability": "dormant",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 5
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000124",
+            "name": "Grove",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Monk",
+                "Avenger"
+            ],
+            "battle": [
+                {
+                    "ability": "revenge",
+                    "amount": 3
+                },
+                {
+                    "ability": "dormant",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                },
+                {
+                    "ability": "wood",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000125",
+            "name": "Elgi",
+            "edition": "2.1",
+            "rarity": "common",
+            "types": [
+                "Rat",
+                "Minion"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 1
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "protect",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000126",
+            "name": "Kurio",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Thorn",
+                "Root"
+            ],
+            "battle": [
+                {
+                    "ability": "spearhead",
+                    "amount": 1
+                },
+                {
+                    "ability": "burnout",
+                    "amount": 4
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000127",
+            "name": "Rowa",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Root"
+            ],
+            "battle": [
+                {
+                    "ability": "attack",
+                    "amount": 2
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [],
+            "sell": []
+        },
+        {
+            "id": "card0000128",
+            "name": "Feng",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Wolf"
+            ],
+            "battle": [
+                {
+                    "ability": "wolfPack",
+                    "amount": 2
+                },
+                {
+                    "ability": "burnout",
+                    "amount": 6
+                }
+            ],
+            "home": [
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000129",
+            "name": "Cast",
+            "edition": "2.1",
+            "rarity": "ultra-rare",
+            "types": [
+                "Soul",
+                "Totem"
+            ],
+            "battle": [
+                {
+                    "ability": "spearhead",
+                    "amount": 3
+                },
+                {
+                    "ability": "dormant",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 5
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 14
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 7
+                }
+            ]
+        },
+        {
+            "id": "card0000130",
+            "name": "Gorg",
+            "edition": "2.0",
+            "rarity": "rare",
+            "types": [
+                "Rat",
+                "Raider"
+            ],
+            "battle": [
+                {
+                    "ability": "steal",
+                    "amount": 1
+                },
+                {
+                    "ability": "wound",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 2
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                },
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                },
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000131",
+            "name": "Mull",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Tamed",
+                "Rat"
+            ],
+            "battle": [
+                {
+                    "ability": "wood",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                },
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                },
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000132",
+            "name": "Qit",
+            "edition": "2.0",
+            "rarity": "common",
+            "types": [
+                "Twisted",
+                "Rat"
+            ],
+            "battle": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                },
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 1
+                },
+                {
+                    "currency": "wood",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000133",
+            "name": "Hammot",
+            "edition": "2.0",
+            "rarity": "uncommon",
+            "types": [
+                "Rat",
+                "Farmer"
+            ],
+            "battle": [
+                {
+                    "ability": "defense",
+                    "amount": 2
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 1
+                },
+                {
+                    "ability": "wood",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                }
+            ]
+        },
+        {
+            "id": "card0000134",
+            "name": "Noch",
+            "edition": "2.2",
+            "rarity": "uncommon",
+            "types": [
+                "Frog"
+            ],
+            "battle": [
+                {
+                    "ability": "toxic",
+                    "amount": 10
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "home": [
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000135",
+            "name": "Uvil",
+            "edition": "2.2",
+            "rarity": "rare",
+            "types": [
+                "Giant",
+                "Frog"
+            ],
+            "battle": [
+                {
+                    "ability": "toxic",
+                    "amount": 16
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 3
+                },
+                {
+                    "ability": "defense",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 8
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000136",
+            "name": "Xane",
+            "edition": "2.2",
+            "rarity": "ultra-rare",
+            "types": [
+                "Shade",
+                "Thorn"
+            ],
+            "battle": [
+                {
+                    "ability": "bolt",
+                    "amount": 1
+                },
+                {
+                    "ability": "spearhead",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 2
+                },
+                {
+                    "ability": "crystal",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                },
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                },
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000137",
+            "name": "Tavi",
+            "edition": "2.2",
+            "rarity": "rare",
+            "types": [
+                "Fox",
+                "Assassin"
+            ],
+            "battle": [
+                {
+                    "ability": "rampage",
+                    "amount": 3
+                },
+                {
+                    "ability": "arrow",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": 3
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 2
+                },
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 1
+                },
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000138",
+            "name": "Ool",
+            "edition": "2.2",
+            "rarity": "rare",
+            "types": [
+                "Ancient",
+                "Wisp"
+            ],
+            "battle": [
+                {
+                    "ability": "totemfarm",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "transform",
+                    "amount": 15
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                },
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                },
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000139",
+            "name": "Flyt",
+            "edition": "2.4",
+            "rarity": "common",
+            "types": [
+                "Fox",
+                "Vanguard"
+            ],
+            "battle": [
+                {
+                    "ability": "foxPack",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000140",
+            "name": "Nevil",
+            "edition": "2.5",
+            "rarity": "uncommon",
+            "types": [
+                "Soul",
+                "Slayer"
+            ],
+            "battle": [
+                {
+                    "ability": "spiritLord",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                },
+                {
+                    "ability": "renegade",
+                    "amount": 0
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "id": "card0000141",
+            "name": "Chal",
+            "edition": "2.4",
+            "rarity": "uncommon",
+            "types": [
+                "Fell",
+                "Knight"
+            ],
+            "battle": [
+                {
+                    "ability": "honor",
+                    "amount": 9
+                },
+                {
+                    "ability": "toxic",
+                    "amount": 9
+                }
+            ],
+            "home": [
+                {
+                    "ability": "fireball",
+                    "amount": 3
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 9
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 5
+                }
+            ]
+        },
+        {
+            "id": "card0000142",
+            "name": "Ansel",
+            "edition": "2.4",
+            "rarity": "common",
+            "types": [
+                "Dog"
+            ],
+            "battle": [
+                {
+                    "ability": "dogPack",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "protect",
+                    "amount": 5
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "wood",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "wood",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000143",
+            "name": "Drion",
+            "edition": "2.4",
+            "rarity": "rare",
+            "types": [
+                "Thief",
+                "Brawler"
+            ],
+            "battle": [
+                {
+                    "ability": "knockout",
+                    "amount": 3
+                }
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": 4
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "gold",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "gold",
+                    "amount": 3
+                }
+            ]
+        },
+        {
+            "id": "card0000144",
+            "name": "Doro",
+            "edition": "2.5",
+            "rarity": "uncommon",
+            "types": [
+                "Harvester",
+                "Golem"
+            ],
+            "battle": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 2
+                },
+                {
+                    "ability": "defense",
+                    "amount": 2
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 2
+                }
+            ]
+        },
+        {
+            "id": "card0000145",
+            "name": "Gaeis",
+            "edition": "2.5",
+            "rarity": "uncommon",
+            "types": [
+                "Summoner"
+            ],
+            "battle": [
+                {
+                    "ability": "golemSurge",
+                    "amount": 4
+                },
+                {
+                    "ability": "burnout",
+                    "amount": 5
+                }
+            ],
+            "home": [
+                {
+                    "ability": "golemShield",
+                    "amount": -1000
+                },
+                {
+                    "ability": "frail",
+                    "amount": -1000
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 8
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 4
+                }
+            ]
+        },
+        {
+            "id": "card0000146",
+            "name": "Trathor",
+            "edition": "2.5",
+            "rarity": "rare",
+            "types": [
+                "Harvester",
+                "Overseer"
+            ],
+            "battle": [
+                {
+                    "ability": "toxic",
+                    "amount": 10
+                },
+                {
+                    "ability": "taskmaster",
+                    "amount": 1
+                }
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": 3
+                },
+                {
+                    "ability": "recruit",
+                    "amount": 1
+                }
+            ],
+            "buy": [
+                {
+                    "currency": "crystal",
+                    "amount": 6
+                }
+            ],
+            "sell": [
+                {
+                    "currency": "crystal",
+                    "amount": 3
+                }
+            ]
+        }
+    ],
+    "cities": [
+        {
+            "id": "city0000000",
+            "name": "The Helm",
+            "edition": "1",
+            "types": [
+                "Human",
+                "Magic"
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": "2"
+                },
+                {
+                    "ability": "crystal",
+                    "amount": "1"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "id": "city0000001",
+            "name": "Titan Ridge",
+            "edition": "1",
+            "types": [
+                "Human"
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": "2"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "4"
+                }
+            ]
+        },
+        {
+            "id": "city0000002",
+            "name": "Dwila",
+            "edition": "1",
+            "types": [
+                "Magic"
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": "2"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "4"
+                }
+            ]
+        },
+        {
+            "id": "city0000003",
+            "name": "Crystal Camp",
+            "edition": "1",
+            "types": [
+                "Human",
+                "Magic"
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": "1"
+                },
+                {
+                    "ability": "crystal",
+                    "amount": "2"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "id": "city0000004",
+            "name": "Sacred Woods",
+            "edition": "1",
+            "types": [
+                "Forest"
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": "2"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "4"
+                }
+            ]
+        },
+        {
+            "id": "city0000005",
+            "name": "The Den",
+            "edition": "1",
+            "types": [
+                "Human",
+                "Forest"
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": "2"
+                },
+                {
+                    "ability": "gold",
+                    "amount": "1"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "id": "city0000006",
+            "name": "Forest Village",
+            "edition": "1",
+            "types": [
+                "Magic",
+                "Forest"
+            ],
+            "home": [
+                {
+                    "ability": "wood",
+                    "amount": "2"
+                },
+                {
+                    "ability": "crystal",
+                    "amount": "1"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "id": "city0000007",
+            "name": "Outfitter",
+            "edition": "1",
+            "types": [
+                "Human",
+                "Forest"
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": "2"
+                },
+                {
+                    "ability": "wood",
+                    "amount": "1"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "id": "city0000008",
+            "name": "The Grotto",
+            "edition": "1",
+            "types": [
+                "Magic",
+                "Forest"
+            ],
+            "home": [
+                {
+                    "ability": "crystal",
+                    "amount": "2"
+                },
+                {
+                    "ability": "wood",
+                    "amount": "1"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "3"
+                }
+            ]
+        },
+        {
+            "id": "city0000009",
+            "name": "Shadow Pylon",
+            "edition": "1",
+            "types": [
+                "Human",
+                "Magic",
+                "Forest"
+            ],
+            "home": [
+                {
+                    "ability": "gold",
+                    "amount": "1"
+                },
+                {
+                    "ability": "crystal",
+                    "amount": "1"
+                },
+                {
+                    "ability": "wood",
+                    "amount": "1"
+                },
+                {
+                    "ability": "recruit",
+                    "amount": "4"
+                }
+            ]
+        }
+    ]
+}
